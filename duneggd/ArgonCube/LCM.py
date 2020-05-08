@@ -73,14 +73,16 @@ class LCMBuilder(gegede.builder.Builder):
         Fibre_shape = geom.shapes.Tubs('Fibre_panel_shape',
                                        rmin = self.Fibre_rmin,
                                        rmax = self.Fibre_rmax,
-                                       dz = self.Fibre_dz)
+                                       #dz = self.Fibre_dz
+                                       dz = self.Fibre_dz-self.SiPM_LCM_Mask_dx)
 
         Fibre_lv = geom.structure.Volume('volFibre',
                                             material=self.Fibre_Material,
                                             shape=Fibre_shape)
 
         # Place bottom LCM Fibres
-        pos = [self.SiPM_LCM_Mask_dx+self.SiPM_LCM_PCB_dx,-2*self.SiPM_LCM_Mask_pitch-self.Fibre_dd-2*self.N_Fibre_LCM*self.Fibre_pitch,Q('0cm')]
+        pos = [self.SiPM_LCM_PCB_dx,-2*self.SiPM_LCM_Mask_pitch-self.Fibre_dd-2*self.N_Fibre_LCM*self.Fibre_pitch,Q('0cm')]
+        #pos = [self.SiPM_LCM_Mask_dx+self.SiPM_LCM_PCB_dx,-2*self.SiPM_LCM_Mask_pitch-self.Fibre_dd-2*self.N_Fibre_LCM*self.Fibre_pitch,Q('0cm')]
         for i in range(self.N_Fibre_LCM):
             pos[1] = pos[1] + 2*self.Fibre_pitch
 
@@ -99,7 +101,8 @@ class LCMBuilder(gegede.builder.Builder):
 
             main_lv.placements.append(Fibre_pla.name)
 
-        pos = [self.SiPM_LCM_Mask_dx+self.SiPM_LCM_PCB_dx,-2*self.SiPM_LCM_Mask_pitch+self.Fibre_dd-2*self.Fibre_pitch,Q('0cm')]
+        pos = [self.SiPM_LCM_PCB_dx,-2*self.SiPM_LCM_Mask_pitch+self.Fibre_dd-2*self.Fibre_pitch,Q('0cm')]
+        #pos = [self.SiPM_LCM_Mask_dx+self.SiPM_LCM_PCB_dx,-2*self.SiPM_LCM_Mask_pitch+self.Fibre_dd-2*self.Fibre_pitch,Q('0cm')]
         for i in range(self.N_Fibre_LCM,2*self.N_Fibre_LCM):
             pos[1] = pos[1] + 2*self.Fibre_pitch
 
@@ -119,7 +122,8 @@ class LCMBuilder(gegede.builder.Builder):
             main_lv.placements.append(Fibre_pla.name)
 
         # Place center LCM Fibres
-        pos = [self.SiPM_LCM_Mask_dx+self.SiPM_LCM_PCB_dx,-self.Fibre_dd-2*self.N_Fibre_LCM*self.Fibre_pitch,Q('0cm')]
+        pos = [self.SiPM_LCM_PCB_dx,-self.Fibre_dd-2*self.N_Fibre_LCM*self.Fibre_pitch,Q('0cm')]
+        #pos = [self.SiPM_LCM_Mask_dx+self.SiPM_LCM_PCB_dx,-self.Fibre_dd-2*self.N_Fibre_LCM*self.Fibre_pitch,Q('0cm')]
         for i in range(self.N_Fibre_LCM):
             pos[1] = pos[1] + 2*self.Fibre_pitch
 
@@ -138,7 +142,8 @@ class LCMBuilder(gegede.builder.Builder):
 
             main_lv.placements.append(Fibre_pla.name)
 
-        pos = [self.SiPM_LCM_Mask_dx+self.SiPM_LCM_PCB_dx,+self.Fibre_dd-2*self.Fibre_pitch,Q('0cm')]
+        pos = [self.SiPM_LCM_PCB_dx,+self.Fibre_dd-2*self.Fibre_pitch,Q('0cm')]
+        #pos = [self.SiPM_LCM_Mask_dx+self.SiPM_LCM_PCB_dx,+self.Fibre_dd-2*self.Fibre_pitch,Q('0cm')]
         for i in range(self.N_Fibre_LCM,2*self.N_Fibre_LCM):
             pos[1] = pos[1] + 2*self.Fibre_pitch
 
@@ -158,7 +163,8 @@ class LCMBuilder(gegede.builder.Builder):
             main_lv.placements.append(Fibre_pla.name)
 
         # Place top LCM Fibres
-        pos = [self.SiPM_LCM_Mask_dx+self.SiPM_LCM_PCB_dx,2*self.SiPM_LCM_Mask_pitch-self.Fibre_dd-2*self.N_Fibre_LCM*self.Fibre_pitch,Q('0cm')]
+        pos = [self.SiPM_LCM_PCB_dx,2*self.SiPM_LCM_Mask_pitch-self.Fibre_dd-2*self.N_Fibre_LCM*self.Fibre_pitch,Q('0cm')]
+        #pos = [self.SiPM_LCM_Mask_dx+self.SiPM_LCM_PCB_dx,2*self.SiPM_LCM_Mask_pitch-self.Fibre_dd-2*self.N_Fibre_LCM*self.Fibre_pitch,Q('0cm')]
         for i in range(self.N_Fibre_LCM):
             pos[1] = pos[1] + 2*self.Fibre_pitch
 
@@ -177,7 +183,8 @@ class LCMBuilder(gegede.builder.Builder):
 
             main_lv.placements.append(Fibre_pla.name)
 
-        pos = [self.SiPM_LCM_Mask_dx+self.SiPM_LCM_PCB_dx,2*self.SiPM_LCM_Mask_pitch+self.Fibre_dd-2*self.Fibre_pitch,Q('0cm')]
+        pos = [self.SiPM_LCM_PCB_dx,2*self.SiPM_LCM_Mask_pitch+self.Fibre_dd-2*self.Fibre_pitch,Q('0cm')]
+        #pos = [self.SiPM_LCM_Mask_dx+self.SiPM_LCM_PCB_dx,2*self.SiPM_LCM_Mask_pitch+self.Fibre_dd-2*self.Fibre_pitch,Q('0cm')]
         for i in range(self.N_Fibre_LCM,2*self.N_Fibre_LCM):
             pos[1] = pos[1] + 2*self.Fibre_pitch
 
@@ -206,41 +213,85 @@ class LCMBuilder(gegede.builder.Builder):
                                             material=self.SiPM_LCM_Mask_Material,
                                             shape=SiPM_LCM_Mask_shape)
 
-        for n in range(self.N_Mask_LCM):
+        #for n in range(self.N_Mask_LCM):
             # Place Mask LV next to Fibre plane
+            #pos = [-self.Fibre_dz+self.SiPM_LCM_PCB_dx,-(self.N_Mask_LCM-1)*self.SiPM_LCM_Mask_pitch+(2*n)*self.SiPM_LCM_Mask_pitch,Q('0mm')]
+
+            #SiPM_LCM_Mask_pos = geom.structure.Position('SiPM_LCM_Mask_pos_'+str(n),
+            #                                        pos[0],pos[1],pos[2])
+
+            #SiPM_LCM_Mask_pla = geom.structure.Placement('SiPM_LCM_Mask_pla_'+str(n),
+            #                                        volume=SiPM_LCM_Mask_lv,
+            #                                        pos=SiPM_LCM_Mask_pos)
+
+            #main_lv.placements.append(SiPM_LCM_Mask_pla.name)
+
+        for n in range(self.N_Mask_LCM):
+            # Place Mask LV near end
             pos = [-self.Fibre_dz+self.SiPM_LCM_PCB_dx,-(self.N_Mask_LCM-1)*self.SiPM_LCM_Mask_pitch+(2*n)*self.SiPM_LCM_Mask_pitch,Q('0mm')]
 
-            SiPM_LCM_Mask_pos = geom.structure.Position('SiPM_LCM_Mask_pos_'+str(n),
+            SiPM_LCM_Mask_pos = geom.structure.Position('SiPM_LCM_Mask_pos_near_'+str(n),
                                                     pos[0],pos[1],pos[2])
 
-            SiPM_LCM_Mask_pla = geom.structure.Placement('SiPM_LCM_Mask_pla_'+str(n),
+            SiPM_LCM_Mask_pla = geom.structure.Placement('SiPM_LCM_Mask_pla_near_'+str(n),
                                                     volume=SiPM_LCM_Mask_lv,
                                                     pos=SiPM_LCM_Mask_pos)
+
+            main_lv.placements.append(SiPM_LCM_Mask_pla.name)
+
+            # Place Mask LV far end
+            pos = [self.halfDimension['dx']-self.SiPM_LCM_Mask_dx,-(self.N_Mask_LCM-1)*self.SiPM_LCM_Mask_pitch+(2*n)*self.SiPM_LCM_Mask_pitch,Q('0mm')]
+
+            rot = ['0.deg','180.deg','0.deg']
+
+            SiPM_LCM_Mask_pos = geom.structure.Position('SiPM_LCM_Mask_pos_far_'+str(n),
+                                                    pos[0],pos[1],pos[2])
+
+            SiPM_LCM_Mask_rot = geom.structure.Rotation('SiPM_LCM_Mask_rot_far_'+str(n),
+                                                    rot[0],rot[1],rot[2])
+
+            SiPM_LCM_Mask_pla = geom.structure.Placement('SiPM_LCM_Mask_pla_far_'+str(n),
+                                                    volume=SiPM_LCM_Mask_lv,
+                                                    pos=SiPM_LCM_Mask_pos,
+                                                    rot=SiPM_LCM_Mask_rot)
 
             main_lv.placements.append(SiPM_LCM_Mask_pla.name)
 
         # Construct SiPM LV
         SiPM_LCM_shape = geom.shapes.Box('SiPM_LCM_shape',
                                        dx = self.SiPM_LCM_dx,
-                                       dy = self.SiPM_LCM_dy,
+                                       #dy = self.SiPM_LCM_dy,
+                                       dy = 2*self.SiPM_LCM_dy,
                                        dz = self.SiPM_LCM_dz)
 
         SiPM_LCM_lv = geom.structure.Volume('volSiPM_LCM',
                                             material=self.SiPM_LCM_Material,
                                             shape=SiPM_LCM_shape)
 
-        for n in range(int(self.N_SiPM_LCM/self.N_Mask_LCM)):
+        #for n in range(int(self.N_SiPM_LCM/self.N_Mask_LCM)):
             # Place SiPMs next to Fibre plane
-            posipm = [self.SiPM_LCM_Mask_dx-self.SiPM_LCM_dx,-(self.N_SiPM_LCM/self.N_Mask_LCM-1)*self.SiPM_LCM_pitch+(2*n)*self.SiPM_LCM_pitch,Q('0cm')]
+            #posipm = [self.SiPM_LCM_Mask_dx-self.SiPM_LCM_dx,-(self.N_SiPM_LCM/self.N_Mask_LCM-1)*self.SiPM_LCM_pitch+(2*n)*self.SiPM_LCM_pitch,Q('0cm')]
 
-            SiPM_LCM_pos = geom.structure.Position('SiPM_LCM_pos_'+str(n),
-                                                    posipm[0],posipm[1],posipm[2])
+            #SiPM_LCM_pos = geom.structure.Position('SiPM_LCM_pos_'+str(n),
+            #                                        posipm[0],posipm[1],posipm[2])
 
-            SiPM_LCM_pla = geom.structure.Placement('SiPM_LCM_pla_'+str(n),
-                                                    volume=SiPM_LCM_lv,
-                                                    pos=SiPM_LCM_pos)
+            #SiPM_LCM_pla = geom.structure.Placement('SiPM_LCM_pla_'+str(n),
+            #                                        volume=SiPM_LCM_lv,
+            #                                        pos=SiPM_LCM_pos)
 
-            SiPM_LCM_Mask_lv.placements.append(SiPM_LCM_pla.name)
+            #SiPM_LCM_Mask_lv.placements.append(SiPM_LCM_pla.name)
+
+        # Place SiPMs next to Fibre plane
+        posipm = [self.SiPM_LCM_Mask_dx-self.SiPM_LCM_dx,Q('0cm'),Q('0cm')]
+
+        SiPM_LCM_pos = geom.structure.Position('SiPM_LCM_pos',
+                                                posipm[0],posipm[1],posipm[2])
+
+        SiPM_LCM_pla = geom.structure.Placement('SiPM_LCM_pla',
+                                                volume=SiPM_LCM_lv,
+                                                pos=SiPM_LCM_pos)
+
+        SiPM_LCM_Mask_lv.placements.append(SiPM_LCM_pla.name)
 
         # Construct and place SiPM PCBs
         SiPM_LCM_PCB_shape = geom.shapes.Box('SiPM_LCM_PCB_shape',
