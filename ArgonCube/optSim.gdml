@@ -131,306 +131,306 @@
     <position name="SiPM_PCB_pos_0" unit="cm" x="-14.0952" y="-10.495" z="0.00135"/>
     <position name="SiPM_PCB_pos_1" unit="cm" x="-14.0952" y="0.0" z="0.00135"/>
     <position name="SiPM_PCB_pos_2" unit="cm" x="-14.0952" y="10.495" z="0.00135"/>
-    <position name="Fibre_pos_btm_0" unit="cm" x="0.15" y="-15.005" z="0"/>
-    <rotation name="Fibre_rot_btm_0" unit="degree" x="0.0" y="90.0" z="0.0"/>
-    <position name="Fibre_pos_btm_1" unit="cm" x="0.15" y="-14.825" z="0"/>
-    <rotation name="Fibre_rot_btm_1" unit="degree" x="0.0" y="90.0" z="0.0"/>
-    <position name="Fibre_pos_btm_2" unit="cm" x="0.15" y="-14.645" z="0"/>
-    <rotation name="Fibre_rot_btm_2" unit="degree" x="0.0" y="90.0" z="0.0"/>
-    <position name="Fibre_pos_btm_3" unit="cm" x="0.15" y="-14.465" z="0"/>
-    <rotation name="Fibre_rot_btm_3" unit="degree" x="0.0" y="90.0" z="0.0"/>
-    <position name="Fibre_pos_btm_4" unit="cm" x="0.15" y="-14.285" z="0"/>
-    <rotation name="Fibre_rot_btm_4" unit="degree" x="0.0" y="90.0" z="0.0"/>
-    <position name="Fibre_pos_btm_5" unit="cm" x="0.15" y="-14.105" z="0"/>
-    <rotation name="Fibre_rot_btm_5" unit="degree" x="0.0" y="90.0" z="0.0"/>
-    <position name="Fibre_pos_btm_6" unit="cm" x="0.15" y="-13.925" z="0"/>
-    <rotation name="Fibre_rot_btm_6" unit="degree" x="0.0" y="90.0" z="0.0"/>
-    <position name="Fibre_pos_btm_7" unit="cm" x="0.15" y="-13.745" z="0"/>
-    <rotation name="Fibre_rot_btm_7" unit="degree" x="0.0" y="90.0" z="0.0"/>
-    <position name="Fibre_pos_btm_8" unit="cm" x="0.15" y="-13.565" z="0"/>
-    <rotation name="Fibre_rot_btm_8" unit="degree" x="0.0" y="90.0" z="0.0"/>
-    <position name="Fibre_pos_btm_9" unit="cm" x="0.15" y="-13.385" z="0"/>
-    <rotation name="Fibre_rot_btm_9" unit="degree" x="0.0" y="90.0" z="0.0"/>
-    <position name="Fibre_pos_btm_10" unit="cm" x="0.15" y="-13.205" z="0"/>
-    <rotation name="Fibre_rot_btm_10" unit="degree" x="0.0" y="90.0" z="0.0"/>
-    <position name="Fibre_pos_btm_11" unit="cm" x="0.15" y="-13.025" z="0"/>
-    <rotation name="Fibre_rot_btm_11" unit="degree" x="0.0" y="90.0" z="0.0"/>
-    <position name="Fibre_pos_btm_12" unit="cm" x="0.15" y="-12.845" z="0"/>
-    <rotation name="Fibre_rot_btm_12" unit="degree" x="0.0" y="90.0" z="0.0"/>
-    <position name="Fibre_pos_btm_13" unit="cm" x="0.15" y="-12.665" z="0"/>
-    <rotation name="Fibre_rot_btm_13" unit="degree" x="0.0" y="90.0" z="0.0"/>
-    <position name="Fibre_pos_btm_14" unit="cm" x="0.15" y="-12.485" z="0"/>
-    <rotation name="Fibre_rot_btm_14" unit="degree" x="0.0" y="90.0" z="0.0"/>
-    <position name="Fibre_pos_btm_15" unit="cm" x="0.15" y="-12.305" z="0"/>
-    <rotation name="Fibre_rot_btm_15" unit="degree" x="0.0" y="90.0" z="0.0"/>
-    <position name="Fibre_pos_btm_16" unit="cm" x="0.15" y="-12.125" z="0"/>
-    <rotation name="Fibre_rot_btm_16" unit="degree" x="0.0" y="90.0" z="0.0"/>
-    <position name="Fibre_pos_btm_17" unit="cm" x="0.15" y="-11.945" z="0"/>
-    <rotation name="Fibre_rot_btm_17" unit="degree" x="0.0" y="90.0" z="0.0"/>
-    <position name="Fibre_pos_btm_18" unit="cm" x="0.15" y="-11.765" z="0"/>
-    <rotation name="Fibre_rot_btm_18" unit="degree" x="0.0" y="90.0" z="0.0"/>
-    <position name="Fibre_pos_btm_19" unit="cm" x="0.15" y="-11.585" z="0"/>
-    <rotation name="Fibre_rot_btm_19" unit="degree" x="0.0" y="90.0" z="0.0"/>
-    <position name="Fibre_pos_btm_20" unit="cm" x="0.15" y="-11.405" z="0"/>
-    <rotation name="Fibre_rot_btm_20" unit="degree" x="0.0" y="90.0" z="0.0"/>
-    <position name="Fibre_pos_btm_21" unit="cm" x="0.15" y="-11.225" z="0"/>
-    <rotation name="Fibre_rot_btm_21" unit="degree" x="0.0" y="90.0" z="0.0"/>
-    <position name="Fibre_pos_btm_22" unit="cm" x="0.15" y="-11.045" z="0"/>
-    <rotation name="Fibre_rot_btm_22" unit="degree" x="0.0" y="90.0" z="0.0"/>
-    <position name="Fibre_pos_btm_23" unit="cm" x="0.15" y="-10.865" z="0"/>
-    <rotation name="Fibre_rot_btm_23" unit="degree" x="0.0" y="90.0" z="0.0"/>
-    <position name="Fibre_pos_btm_24" unit="cm" x="0.15" y="-10.685" z="0"/>
-    <rotation name="Fibre_rot_btm_24" unit="degree" x="0.0" y="90.0" z="0.0"/>
-    <position name="Fibre_pos_btm_25" unit="cm" x="0.15" y="-10.305" z="0"/>
-    <rotation name="Fibre_rot_btm_25" unit="degree" x="0.0" y="90.0" z="0.0"/>
-    <position name="Fibre_pos_btm_26" unit="cm" x="0.15" y="-10.125" z="0"/>
-    <rotation name="Fibre_rot_btm_26" unit="degree" x="0.0" y="90.0" z="0.0"/>
-    <position name="Fibre_pos_btm_27" unit="cm" x="0.15" y="-9.945" z="0"/>
-    <rotation name="Fibre_rot_btm_27" unit="degree" x="0.0" y="90.0" z="0.0"/>
-    <position name="Fibre_pos_btm_28" unit="cm" x="0.15" y="-9.765" z="0"/>
-    <rotation name="Fibre_rot_btm_28" unit="degree" x="0.0" y="90.0" z="0.0"/>
-    <position name="Fibre_pos_btm_29" unit="cm" x="0.15" y="-9.585" z="0"/>
-    <rotation name="Fibre_rot_btm_29" unit="degree" x="0.0" y="90.0" z="0.0"/>
-    <position name="Fibre_pos_btm_30" unit="cm" x="0.15" y="-9.405" z="0"/>
-    <rotation name="Fibre_rot_btm_30" unit="degree" x="0.0" y="90.0" z="0.0"/>
-    <position name="Fibre_pos_btm_31" unit="cm" x="0.15" y="-9.225" z="0"/>
-    <rotation name="Fibre_rot_btm_31" unit="degree" x="0.0" y="90.0" z="0.0"/>
-    <position name="Fibre_pos_btm_32" unit="cm" x="0.15" y="-9.045" z="0"/>
-    <rotation name="Fibre_rot_btm_32" unit="degree" x="0.0" y="90.0" z="0.0"/>
-    <position name="Fibre_pos_btm_33" unit="cm" x="0.15" y="-8.865" z="0"/>
-    <rotation name="Fibre_rot_btm_33" unit="degree" x="0.0" y="90.0" z="0.0"/>
-    <position name="Fibre_pos_btm_34" unit="cm" x="0.15" y="-8.685" z="0"/>
-    <rotation name="Fibre_rot_btm_34" unit="degree" x="0.0" y="90.0" z="0.0"/>
-    <position name="Fibre_pos_btm_35" unit="cm" x="0.15" y="-8.505" z="0"/>
-    <rotation name="Fibre_rot_btm_35" unit="degree" x="0.0" y="90.0" z="0.0"/>
-    <position name="Fibre_pos_btm_36" unit="cm" x="0.15" y="-8.325" z="0"/>
-    <rotation name="Fibre_rot_btm_36" unit="degree" x="0.0" y="90.0" z="0.0"/>
-    <position name="Fibre_pos_btm_37" unit="cm" x="0.15" y="-8.145" z="0"/>
-    <rotation name="Fibre_rot_btm_37" unit="degree" x="0.0" y="90.0" z="0.0"/>
-    <position name="Fibre_pos_btm_38" unit="cm" x="0.15" y="-7.965" z="0"/>
-    <rotation name="Fibre_rot_btm_38" unit="degree" x="0.0" y="90.0" z="0.0"/>
-    <position name="Fibre_pos_btm_39" unit="cm" x="0.15" y="-7.785" z="0"/>
-    <rotation name="Fibre_rot_btm_39" unit="degree" x="0.0" y="90.0" z="0.0"/>
-    <position name="Fibre_pos_btm_40" unit="cm" x="0.15" y="-7.605" z="0"/>
-    <rotation name="Fibre_rot_btm_40" unit="degree" x="0.0" y="90.0" z="0.0"/>
-    <position name="Fibre_pos_btm_41" unit="cm" x="0.15" y="-7.425" z="0"/>
-    <rotation name="Fibre_rot_btm_41" unit="degree" x="0.0" y="90.0" z="0.0"/>
-    <position name="Fibre_pos_btm_42" unit="cm" x="0.15" y="-7.245" z="0"/>
-    <rotation name="Fibre_rot_btm_42" unit="degree" x="0.0" y="90.0" z="0.0"/>
-    <position name="Fibre_pos_btm_43" unit="cm" x="0.15" y="-7.065" z="0"/>
-    <rotation name="Fibre_rot_btm_43" unit="degree" x="0.0" y="90.0" z="0.0"/>
-    <position name="Fibre_pos_btm_44" unit="cm" x="0.15" y="-6.885" z="0"/>
-    <rotation name="Fibre_rot_btm_44" unit="degree" x="0.0" y="90.0" z="0.0"/>
-    <position name="Fibre_pos_btm_45" unit="cm" x="0.15" y="-6.705" z="0"/>
-    <rotation name="Fibre_rot_btm_45" unit="degree" x="0.0" y="90.0" z="0.0"/>
-    <position name="Fibre_pos_btm_46" unit="cm" x="0.15" y="-6.525" z="0"/>
-    <rotation name="Fibre_rot_btm_46" unit="degree" x="0.0" y="90.0" z="0.0"/>
-    <position name="Fibre_pos_btm_47" unit="cm" x="0.15" y="-6.345" z="0"/>
-    <rotation name="Fibre_rot_btm_47" unit="degree" x="0.0" y="90.0" z="0.0"/>
-    <position name="Fibre_pos_btm_48" unit="cm" x="0.15" y="-6.165" z="0"/>
-    <rotation name="Fibre_rot_btm_48" unit="degree" x="0.0" y="90.0" z="0.0"/>
-    <position name="Fibre_pos_btm_49" unit="cm" x="0.15" y="-5.985" z="0"/>
-    <rotation name="Fibre_rot_btm_49" unit="degree" x="0.0" y="90.0" z="0.0"/>
-    <position name="Fibre_pos_center_0" unit="cm" x="0.15" y="-4.51" z="0"/>
-    <rotation name="Fibre_rot_center_0" unit="degree" x="0.0" y="90.0" z="0.0"/>
-    <position name="Fibre_pos_center_1" unit="cm" x="0.15" y="-4.33" z="0"/>
-    <rotation name="Fibre_rot_center_1" unit="degree" x="0.0" y="90.0" z="0.0"/>
-    <position name="Fibre_pos_center_2" unit="cm" x="0.15" y="-4.15" z="0"/>
-    <rotation name="Fibre_rot_center_2" unit="degree" x="0.0" y="90.0" z="0.0"/>
-    <position name="Fibre_pos_center_3" unit="cm" x="0.15" y="-3.97" z="0"/>
-    <rotation name="Fibre_rot_center_3" unit="degree" x="0.0" y="90.0" z="0.0"/>
-    <position name="Fibre_pos_center_4" unit="cm" x="0.15" y="-3.79" z="0"/>
-    <rotation name="Fibre_rot_center_4" unit="degree" x="0.0" y="90.0" z="0.0"/>
-    <position name="Fibre_pos_center_5" unit="cm" x="0.15" y="-3.61" z="0"/>
-    <rotation name="Fibre_rot_center_5" unit="degree" x="0.0" y="90.0" z="0.0"/>
-    <position name="Fibre_pos_center_6" unit="cm" x="0.15" y="-3.43" z="0"/>
-    <rotation name="Fibre_rot_center_6" unit="degree" x="0.0" y="90.0" z="0.0"/>
-    <position name="Fibre_pos_center_7" unit="cm" x="0.15" y="-3.25" z="0"/>
-    <rotation name="Fibre_rot_center_7" unit="degree" x="0.0" y="90.0" z="0.0"/>
-    <position name="Fibre_pos_center_8" unit="cm" x="0.15" y="-3.07" z="0"/>
-    <rotation name="Fibre_rot_center_8" unit="degree" x="0.0" y="90.0" z="0.0"/>
-    <position name="Fibre_pos_center_9" unit="cm" x="0.15" y="-2.89" z="0"/>
-    <rotation name="Fibre_rot_center_9" unit="degree" x="0.0" y="90.0" z="0.0"/>
-    <position name="Fibre_pos_center_10" unit="cm" x="0.15" y="-2.71" z="0"/>
-    <rotation name="Fibre_rot_center_10" unit="degree" x="0.0" y="90.0" z="0.0"/>
-    <position name="Fibre_pos_center_11" unit="cm" x="0.15" y="-2.53" z="0"/>
-    <rotation name="Fibre_rot_center_11" unit="degree" x="0.0" y="90.0" z="0.0"/>
-    <position name="Fibre_pos_center_12" unit="cm" x="0.15" y="-2.35" z="0"/>
-    <rotation name="Fibre_rot_center_12" unit="degree" x="0.0" y="90.0" z="0.0"/>
-    <position name="Fibre_pos_center_13" unit="cm" x="0.15" y="-2.17" z="0"/>
-    <rotation name="Fibre_rot_center_13" unit="degree" x="0.0" y="90.0" z="0.0"/>
-    <position name="Fibre_pos_center_14" unit="cm" x="0.15" y="-1.99" z="0"/>
-    <rotation name="Fibre_rot_center_14" unit="degree" x="0.0" y="90.0" z="0.0"/>
-    <position name="Fibre_pos_center_15" unit="cm" x="0.15" y="-1.81" z="0"/>
-    <rotation name="Fibre_rot_center_15" unit="degree" x="0.0" y="90.0" z="0.0"/>
-    <position name="Fibre_pos_center_16" unit="cm" x="0.15" y="-1.63" z="0"/>
-    <rotation name="Fibre_rot_center_16" unit="degree" x="0.0" y="90.0" z="0.0"/>
-    <position name="Fibre_pos_center_17" unit="cm" x="0.15" y="-1.45" z="0"/>
-    <rotation name="Fibre_rot_center_17" unit="degree" x="0.0" y="90.0" z="0.0"/>
-    <position name="Fibre_pos_center_18" unit="cm" x="0.15" y="-1.27" z="0"/>
-    <rotation name="Fibre_rot_center_18" unit="degree" x="0.0" y="90.0" z="0.0"/>
-    <position name="Fibre_pos_center_19" unit="cm" x="0.15" y="-1.09" z="0"/>
-    <rotation name="Fibre_rot_center_19" unit="degree" x="0.0" y="90.0" z="0.0"/>
-    <position name="Fibre_pos_center_20" unit="cm" x="0.15" y="-0.91" z="0"/>
-    <rotation name="Fibre_rot_center_20" unit="degree" x="0.0" y="90.0" z="0.0"/>
-    <position name="Fibre_pos_center_21" unit="cm" x="0.15" y="-0.73" z="0"/>
-    <rotation name="Fibre_rot_center_21" unit="degree" x="0.0" y="90.0" z="0.0"/>
-    <position name="Fibre_pos_center_22" unit="cm" x="0.15" y="-0.55" z="0"/>
-    <rotation name="Fibre_rot_center_22" unit="degree" x="0.0" y="90.0" z="0.0"/>
-    <position name="Fibre_pos_center_23" unit="cm" x="0.15" y="-0.37" z="0"/>
-    <rotation name="Fibre_rot_center_23" unit="degree" x="0.0" y="90.0" z="0.0"/>
-    <position name="Fibre_pos_center_24" unit="cm" x="0.15" y="-0.19" z="0"/>
-    <rotation name="Fibre_rot_center_24" unit="degree" x="0.0" y="90.0" z="0.0"/>
-    <position name="Fibre_pos_center_25" unit="cm" x="0.15" y="0.19" z="0"/>
-    <rotation name="Fibre_rot_center_25" unit="degree" x="0.0" y="90.0" z="0.0"/>
-    <position name="Fibre_pos_center_26" unit="cm" x="0.15" y="0.37" z="0"/>
-    <rotation name="Fibre_rot_center_26" unit="degree" x="0.0" y="90.0" z="0.0"/>
-    <position name="Fibre_pos_center_27" unit="cm" x="0.15" y="0.55" z="0"/>
-    <rotation name="Fibre_rot_center_27" unit="degree" x="0.0" y="90.0" z="0.0"/>
-    <position name="Fibre_pos_center_28" unit="cm" x="0.15" y="0.73" z="0"/>
-    <rotation name="Fibre_rot_center_28" unit="degree" x="0.0" y="90.0" z="0.0"/>
-    <position name="Fibre_pos_center_29" unit="cm" x="0.15" y="0.91" z="0"/>
-    <rotation name="Fibre_rot_center_29" unit="degree" x="0.0" y="90.0" z="0.0"/>
-    <position name="Fibre_pos_center_30" unit="cm" x="0.15" y="1.09" z="0"/>
-    <rotation name="Fibre_rot_center_30" unit="degree" x="0.0" y="90.0" z="0.0"/>
-    <position name="Fibre_pos_center_31" unit="cm" x="0.15" y="1.27" z="0"/>
-    <rotation name="Fibre_rot_center_31" unit="degree" x="0.0" y="90.0" z="0.0"/>
-    <position name="Fibre_pos_center_32" unit="cm" x="0.15" y="1.45" z="0"/>
-    <rotation name="Fibre_rot_center_32" unit="degree" x="0.0" y="90.0" z="0.0"/>
-    <position name="Fibre_pos_center_33" unit="cm" x="0.15" y="1.63" z="0"/>
-    <rotation name="Fibre_rot_center_33" unit="degree" x="0.0" y="90.0" z="0.0"/>
-    <position name="Fibre_pos_center_34" unit="cm" x="0.15" y="1.81" z="0"/>
-    <rotation name="Fibre_rot_center_34" unit="degree" x="0.0" y="90.0" z="0.0"/>
-    <position name="Fibre_pos_center_35" unit="cm" x="0.15" y="1.99" z="0"/>
-    <rotation name="Fibre_rot_center_35" unit="degree" x="0.0" y="90.0" z="0.0"/>
-    <position name="Fibre_pos_center_36" unit="cm" x="0.15" y="2.17" z="0"/>
-    <rotation name="Fibre_rot_center_36" unit="degree" x="0.0" y="90.0" z="0.0"/>
-    <position name="Fibre_pos_center_37" unit="cm" x="0.15" y="2.35" z="0"/>
-    <rotation name="Fibre_rot_center_37" unit="degree" x="0.0" y="90.0" z="0.0"/>
-    <position name="Fibre_pos_center_38" unit="cm" x="0.15" y="2.53" z="0"/>
-    <rotation name="Fibre_rot_center_38" unit="degree" x="0.0" y="90.0" z="0.0"/>
-    <position name="Fibre_pos_center_39" unit="cm" x="0.15" y="2.71" z="0"/>
-    <rotation name="Fibre_rot_center_39" unit="degree" x="0.0" y="90.0" z="0.0"/>
-    <position name="Fibre_pos_center_40" unit="cm" x="0.15" y="2.89" z="0"/>
-    <rotation name="Fibre_rot_center_40" unit="degree" x="0.0" y="90.0" z="0.0"/>
-    <position name="Fibre_pos_center_41" unit="cm" x="0.15" y="3.07" z="0"/>
-    <rotation name="Fibre_rot_center_41" unit="degree" x="0.0" y="90.0" z="0.0"/>
-    <position name="Fibre_pos_center_42" unit="cm" x="0.15" y="3.25" z="0"/>
-    <rotation name="Fibre_rot_center_42" unit="degree" x="0.0" y="90.0" z="0.0"/>
-    <position name="Fibre_pos_center_43" unit="cm" x="0.15" y="3.43" z="0"/>
-    <rotation name="Fibre_rot_center_43" unit="degree" x="0.0" y="90.0" z="0.0"/>
-    <position name="Fibre_pos_center_44" unit="cm" x="0.15" y="3.61" z="0"/>
-    <rotation name="Fibre_rot_center_44" unit="degree" x="0.0" y="90.0" z="0.0"/>
-    <position name="Fibre_pos_center_45" unit="cm" x="0.15" y="3.79" z="0"/>
-    <rotation name="Fibre_rot_center_45" unit="degree" x="0.0" y="90.0" z="0.0"/>
-    <position name="Fibre_pos_center_46" unit="cm" x="0.15" y="3.97" z="0"/>
-    <rotation name="Fibre_rot_center_46" unit="degree" x="0.0" y="90.0" z="0.0"/>
-    <position name="Fibre_pos_center_47" unit="cm" x="0.15" y="4.15" z="0"/>
-    <rotation name="Fibre_rot_center_47" unit="degree" x="0.0" y="90.0" z="0.0"/>
-    <position name="Fibre_pos_center_48" unit="cm" x="0.15" y="4.33" z="0"/>
-    <rotation name="Fibre_rot_center_48" unit="degree" x="0.0" y="90.0" z="0.0"/>
-    <position name="Fibre_pos_center_49" unit="cm" x="0.15" y="4.51" z="0"/>
-    <rotation name="Fibre_rot_center_49" unit="degree" x="0.0" y="90.0" z="0.0"/>
-    <position name="Fibre_pos_top_0" unit="cm" x="0.15" y="5.985" z="0"/>
-    <rotation name="Fibre_rot_top_0" unit="degree" x="0.0" y="90.0" z="0.0"/>
-    <position name="Fibre_pos_top_1" unit="cm" x="0.15" y="6.165" z="0"/>
-    <rotation name="Fibre_rot_top_1" unit="degree" x="0.0" y="90.0" z="0.0"/>
-    <position name="Fibre_pos_top_2" unit="cm" x="0.15" y="6.345" z="0"/>
-    <rotation name="Fibre_rot_top_2" unit="degree" x="0.0" y="90.0" z="0.0"/>
-    <position name="Fibre_pos_top_3" unit="cm" x="0.15" y="6.525" z="0"/>
-    <rotation name="Fibre_rot_top_3" unit="degree" x="0.0" y="90.0" z="0.0"/>
-    <position name="Fibre_pos_top_4" unit="cm" x="0.15" y="6.705" z="0"/>
-    <rotation name="Fibre_rot_top_4" unit="degree" x="0.0" y="90.0" z="0.0"/>
-    <position name="Fibre_pos_top_5" unit="cm" x="0.15" y="6.885" z="0"/>
-    <rotation name="Fibre_rot_top_5" unit="degree" x="0.0" y="90.0" z="0.0"/>
-    <position name="Fibre_pos_top_6" unit="cm" x="0.15" y="7.065" z="0"/>
-    <rotation name="Fibre_rot_top_6" unit="degree" x="0.0" y="90.0" z="0.0"/>
-    <position name="Fibre_pos_top_7" unit="cm" x="0.15" y="7.245" z="0"/>
-    <rotation name="Fibre_rot_top_7" unit="degree" x="0.0" y="90.0" z="0.0"/>
-    <position name="Fibre_pos_top_8" unit="cm" x="0.15" y="7.425" z="0"/>
-    <rotation name="Fibre_rot_top_8" unit="degree" x="0.0" y="90.0" z="0.0"/>
-    <position name="Fibre_pos_top_9" unit="cm" x="0.15" y="7.605" z="0"/>
-    <rotation name="Fibre_rot_top_9" unit="degree" x="0.0" y="90.0" z="0.0"/>
-    <position name="Fibre_pos_top_10" unit="cm" x="0.15" y="7.785" z="0"/>
-    <rotation name="Fibre_rot_top_10" unit="degree" x="0.0" y="90.0" z="0.0"/>
-    <position name="Fibre_pos_top_11" unit="cm" x="0.15" y="7.965" z="0"/>
-    <rotation name="Fibre_rot_top_11" unit="degree" x="0.0" y="90.0" z="0.0"/>
-    <position name="Fibre_pos_top_12" unit="cm" x="0.15" y="8.145" z="0"/>
-    <rotation name="Fibre_rot_top_12" unit="degree" x="0.0" y="90.0" z="0.0"/>
-    <position name="Fibre_pos_top_13" unit="cm" x="0.15" y="8.325" z="0"/>
-    <rotation name="Fibre_rot_top_13" unit="degree" x="0.0" y="90.0" z="0.0"/>
-    <position name="Fibre_pos_top_14" unit="cm" x="0.15" y="8.505" z="0"/>
-    <rotation name="Fibre_rot_top_14" unit="degree" x="0.0" y="90.0" z="0.0"/>
-    <position name="Fibre_pos_top_15" unit="cm" x="0.15" y="8.685" z="0"/>
-    <rotation name="Fibre_rot_top_15" unit="degree" x="0.0" y="90.0" z="0.0"/>
-    <position name="Fibre_pos_top_16" unit="cm" x="0.15" y="8.865" z="0"/>
-    <rotation name="Fibre_rot_top_16" unit="degree" x="0.0" y="90.0" z="0.0"/>
-    <position name="Fibre_pos_top_17" unit="cm" x="0.15" y="9.045" z="0"/>
-    <rotation name="Fibre_rot_top_17" unit="degree" x="0.0" y="90.0" z="0.0"/>
-    <position name="Fibre_pos_top_18" unit="cm" x="0.15" y="9.225" z="0"/>
-    <rotation name="Fibre_rot_top_18" unit="degree" x="0.0" y="90.0" z="0.0"/>
-    <position name="Fibre_pos_top_19" unit="cm" x="0.15" y="9.405" z="0"/>
-    <rotation name="Fibre_rot_top_19" unit="degree" x="0.0" y="90.0" z="0.0"/>
-    <position name="Fibre_pos_top_20" unit="cm" x="0.15" y="9.585" z="0"/>
-    <rotation name="Fibre_rot_top_20" unit="degree" x="0.0" y="90.0" z="0.0"/>
-    <position name="Fibre_pos_top_21" unit="cm" x="0.15" y="9.765" z="0"/>
-    <rotation name="Fibre_rot_top_21" unit="degree" x="0.0" y="90.0" z="0.0"/>
-    <position name="Fibre_pos_top_22" unit="cm" x="0.15" y="9.945" z="0"/>
-    <rotation name="Fibre_rot_top_22" unit="degree" x="0.0" y="90.0" z="0.0"/>
-    <position name="Fibre_pos_top_23" unit="cm" x="0.15" y="10.125" z="0"/>
-    <rotation name="Fibre_rot_top_23" unit="degree" x="0.0" y="90.0" z="0.0"/>
-    <position name="Fibre_pos_top_24" unit="cm" x="0.15" y="10.305" z="0"/>
-    <rotation name="Fibre_rot_top_24" unit="degree" x="0.0" y="90.0" z="0.0"/>
-    <position name="Fibre_pos_top_25" unit="cm" x="0.15" y="10.685" z="0"/>
-    <rotation name="Fibre_rot_top_25" unit="degree" x="0.0" y="90.0" z="0.0"/>
-    <position name="Fibre_pos_top_26" unit="cm" x="0.15" y="10.865" z="0"/>
-    <rotation name="Fibre_rot_top_26" unit="degree" x="0.0" y="90.0" z="0.0"/>
-    <position name="Fibre_pos_top_27" unit="cm" x="0.15" y="11.045" z="0"/>
-    <rotation name="Fibre_rot_top_27" unit="degree" x="0.0" y="90.0" z="0.0"/>
-    <position name="Fibre_pos_top_28" unit="cm" x="0.15" y="11.225" z="0"/>
-    <rotation name="Fibre_rot_top_28" unit="degree" x="0.0" y="90.0" z="0.0"/>
-    <position name="Fibre_pos_top_29" unit="cm" x="0.15" y="11.405" z="0"/>
-    <rotation name="Fibre_rot_top_29" unit="degree" x="0.0" y="90.0" z="0.0"/>
-    <position name="Fibre_pos_top_30" unit="cm" x="0.15" y="11.585" z="0"/>
-    <rotation name="Fibre_rot_top_30" unit="degree" x="0.0" y="90.0" z="0.0"/>
-    <position name="Fibre_pos_top_31" unit="cm" x="0.15" y="11.765" z="0"/>
-    <rotation name="Fibre_rot_top_31" unit="degree" x="0.0" y="90.0" z="0.0"/>
-    <position name="Fibre_pos_top_32" unit="cm" x="0.15" y="11.945" z="0"/>
-    <rotation name="Fibre_rot_top_32" unit="degree" x="0.0" y="90.0" z="0.0"/>
-    <position name="Fibre_pos_top_33" unit="cm" x="0.15" y="12.125" z="0"/>
-    <rotation name="Fibre_rot_top_33" unit="degree" x="0.0" y="90.0" z="0.0"/>
-    <position name="Fibre_pos_top_34" unit="cm" x="0.15" y="12.305" z="0"/>
-    <rotation name="Fibre_rot_top_34" unit="degree" x="0.0" y="90.0" z="0.0"/>
-    <position name="Fibre_pos_top_35" unit="cm" x="0.15" y="12.485" z="0"/>
-    <rotation name="Fibre_rot_top_35" unit="degree" x="0.0" y="90.0" z="0.0"/>
-    <position name="Fibre_pos_top_36" unit="cm" x="0.15" y="12.665" z="0"/>
-    <rotation name="Fibre_rot_top_36" unit="degree" x="0.0" y="90.0" z="0.0"/>
-    <position name="Fibre_pos_top_37" unit="cm" x="0.15" y="12.845" z="0"/>
-    <rotation name="Fibre_rot_top_37" unit="degree" x="0.0" y="90.0" z="0.0"/>
-    <position name="Fibre_pos_top_38" unit="cm" x="0.15" y="13.025" z="0"/>
-    <rotation name="Fibre_rot_top_38" unit="degree" x="0.0" y="90.0" z="0.0"/>
-    <position name="Fibre_pos_top_39" unit="cm" x="0.15" y="13.205" z="0"/>
-    <rotation name="Fibre_rot_top_39" unit="degree" x="0.0" y="90.0" z="0.0"/>
-    <position name="Fibre_pos_top_40" unit="cm" x="0.15" y="13.385" z="0"/>
-    <rotation name="Fibre_rot_top_40" unit="degree" x="0.0" y="90.0" z="0.0"/>
-    <position name="Fibre_pos_top_41" unit="cm" x="0.15" y="13.565" z="0"/>
-    <rotation name="Fibre_rot_top_41" unit="degree" x="0.0" y="90.0" z="0.0"/>
-    <position name="Fibre_pos_top_42" unit="cm" x="0.15" y="13.745" z="0"/>
-    <rotation name="Fibre_rot_top_42" unit="degree" x="0.0" y="90.0" z="0.0"/>
-    <position name="Fibre_pos_top_43" unit="cm" x="0.15" y="13.925" z="0"/>
-    <rotation name="Fibre_rot_top_43" unit="degree" x="0.0" y="90.0" z="0.0"/>
-    <position name="Fibre_pos_top_44" unit="cm" x="0.15" y="14.105" z="0"/>
-    <rotation name="Fibre_rot_top_44" unit="degree" x="0.0" y="90.0" z="0.0"/>
-    <position name="Fibre_pos_top_45" unit="cm" x="0.15" y="14.285" z="0"/>
-    <rotation name="Fibre_rot_top_45" unit="degree" x="0.0" y="90.0" z="0.0"/>
-    <position name="Fibre_pos_top_46" unit="cm" x="0.15" y="14.465" z="0"/>
-    <rotation name="Fibre_rot_top_46" unit="degree" x="0.0" y="90.0" z="0.0"/>
-    <position name="Fibre_pos_top_47" unit="cm" x="0.15" y="14.645" z="0"/>
-    <rotation name="Fibre_rot_top_47" unit="degree" x="0.0" y="90.0" z="0.0"/>
-    <position name="Fibre_pos_top_48" unit="cm" x="0.15" y="14.825" z="0"/>
-    <rotation name="Fibre_rot_top_48" unit="degree" x="0.0" y="90.0" z="0.0"/>
-    <position name="Fibre_pos_top_49" unit="cm" x="0.15" y="15.005" z="0"/>
-    <rotation name="Fibre_rot_top_49" unit="degree" x="0.0" y="90.0" z="0.0"/>
+    <position name="Fiber_pos_btm_0" unit="cm" x="0.15" y="-15.005" z="0"/>
+    <rotation name="Fiber_rot_btm_0" unit="degree" x="0.0" y="90.0" z="0.0"/>
+    <position name="Fiber_pos_btm_1" unit="cm" x="0.15" y="-14.825" z="0"/>
+    <rotation name="Fiber_rot_btm_1" unit="degree" x="0.0" y="90.0" z="0.0"/>
+    <position name="Fiber_pos_btm_2" unit="cm" x="0.15" y="-14.645" z="0"/>
+    <rotation name="Fiber_rot_btm_2" unit="degree" x="0.0" y="90.0" z="0.0"/>
+    <position name="Fiber_pos_btm_3" unit="cm" x="0.15" y="-14.465" z="0"/>
+    <rotation name="Fiber_rot_btm_3" unit="degree" x="0.0" y="90.0" z="0.0"/>
+    <position name="Fiber_pos_btm_4" unit="cm" x="0.15" y="-14.285" z="0"/>
+    <rotation name="Fiber_rot_btm_4" unit="degree" x="0.0" y="90.0" z="0.0"/>
+    <position name="Fiber_pos_btm_5" unit="cm" x="0.15" y="-14.105" z="0"/>
+    <rotation name="Fiber_rot_btm_5" unit="degree" x="0.0" y="90.0" z="0.0"/>
+    <position name="Fiber_pos_btm_6" unit="cm" x="0.15" y="-13.925" z="0"/>
+    <rotation name="Fiber_rot_btm_6" unit="degree" x="0.0" y="90.0" z="0.0"/>
+    <position name="Fiber_pos_btm_7" unit="cm" x="0.15" y="-13.745" z="0"/>
+    <rotation name="Fiber_rot_btm_7" unit="degree" x="0.0" y="90.0" z="0.0"/>
+    <position name="Fiber_pos_btm_8" unit="cm" x="0.15" y="-13.565" z="0"/>
+    <rotation name="Fiber_rot_btm_8" unit="degree" x="0.0" y="90.0" z="0.0"/>
+    <position name="Fiber_pos_btm_9" unit="cm" x="0.15" y="-13.385" z="0"/>
+    <rotation name="Fiber_rot_btm_9" unit="degree" x="0.0" y="90.0" z="0.0"/>
+    <position name="Fiber_pos_btm_10" unit="cm" x="0.15" y="-13.205" z="0"/>
+    <rotation name="Fiber_rot_btm_10" unit="degree" x="0.0" y="90.0" z="0.0"/>
+    <position name="Fiber_pos_btm_11" unit="cm" x="0.15" y="-13.025" z="0"/>
+    <rotation name="Fiber_rot_btm_11" unit="degree" x="0.0" y="90.0" z="0.0"/>
+    <position name="Fiber_pos_btm_12" unit="cm" x="0.15" y="-12.845" z="0"/>
+    <rotation name="Fiber_rot_btm_12" unit="degree" x="0.0" y="90.0" z="0.0"/>
+    <position name="Fiber_pos_btm_13" unit="cm" x="0.15" y="-12.665" z="0"/>
+    <rotation name="Fiber_rot_btm_13" unit="degree" x="0.0" y="90.0" z="0.0"/>
+    <position name="Fiber_pos_btm_14" unit="cm" x="0.15" y="-12.485" z="0"/>
+    <rotation name="Fiber_rot_btm_14" unit="degree" x="0.0" y="90.0" z="0.0"/>
+    <position name="Fiber_pos_btm_15" unit="cm" x="0.15" y="-12.305" z="0"/>
+    <rotation name="Fiber_rot_btm_15" unit="degree" x="0.0" y="90.0" z="0.0"/>
+    <position name="Fiber_pos_btm_16" unit="cm" x="0.15" y="-12.125" z="0"/>
+    <rotation name="Fiber_rot_btm_16" unit="degree" x="0.0" y="90.0" z="0.0"/>
+    <position name="Fiber_pos_btm_17" unit="cm" x="0.15" y="-11.945" z="0"/>
+    <rotation name="Fiber_rot_btm_17" unit="degree" x="0.0" y="90.0" z="0.0"/>
+    <position name="Fiber_pos_btm_18" unit="cm" x="0.15" y="-11.765" z="0"/>
+    <rotation name="Fiber_rot_btm_18" unit="degree" x="0.0" y="90.0" z="0.0"/>
+    <position name="Fiber_pos_btm_19" unit="cm" x="0.15" y="-11.585" z="0"/>
+    <rotation name="Fiber_rot_btm_19" unit="degree" x="0.0" y="90.0" z="0.0"/>
+    <position name="Fiber_pos_btm_20" unit="cm" x="0.15" y="-11.405" z="0"/>
+    <rotation name="Fiber_rot_btm_20" unit="degree" x="0.0" y="90.0" z="0.0"/>
+    <position name="Fiber_pos_btm_21" unit="cm" x="0.15" y="-11.225" z="0"/>
+    <rotation name="Fiber_rot_btm_21" unit="degree" x="0.0" y="90.0" z="0.0"/>
+    <position name="Fiber_pos_btm_22" unit="cm" x="0.15" y="-11.045" z="0"/>
+    <rotation name="Fiber_rot_btm_22" unit="degree" x="0.0" y="90.0" z="0.0"/>
+    <position name="Fiber_pos_btm_23" unit="cm" x="0.15" y="-10.865" z="0"/>
+    <rotation name="Fiber_rot_btm_23" unit="degree" x="0.0" y="90.0" z="0.0"/>
+    <position name="Fiber_pos_btm_24" unit="cm" x="0.15" y="-10.685" z="0"/>
+    <rotation name="Fiber_rot_btm_24" unit="degree" x="0.0" y="90.0" z="0.0"/>
+    <position name="Fiber_pos_btm_25" unit="cm" x="0.15" y="-10.305" z="0"/>
+    <rotation name="Fiber_rot_btm_25" unit="degree" x="0.0" y="90.0" z="0.0"/>
+    <position name="Fiber_pos_btm_26" unit="cm" x="0.15" y="-10.125" z="0"/>
+    <rotation name="Fiber_rot_btm_26" unit="degree" x="0.0" y="90.0" z="0.0"/>
+    <position name="Fiber_pos_btm_27" unit="cm" x="0.15" y="-9.945" z="0"/>
+    <rotation name="Fiber_rot_btm_27" unit="degree" x="0.0" y="90.0" z="0.0"/>
+    <position name="Fiber_pos_btm_28" unit="cm" x="0.15" y="-9.765" z="0"/>
+    <rotation name="Fiber_rot_btm_28" unit="degree" x="0.0" y="90.0" z="0.0"/>
+    <position name="Fiber_pos_btm_29" unit="cm" x="0.15" y="-9.585" z="0"/>
+    <rotation name="Fiber_rot_btm_29" unit="degree" x="0.0" y="90.0" z="0.0"/>
+    <position name="Fiber_pos_btm_30" unit="cm" x="0.15" y="-9.405" z="0"/>
+    <rotation name="Fiber_rot_btm_30" unit="degree" x="0.0" y="90.0" z="0.0"/>
+    <position name="Fiber_pos_btm_31" unit="cm" x="0.15" y="-9.225" z="0"/>
+    <rotation name="Fiber_rot_btm_31" unit="degree" x="0.0" y="90.0" z="0.0"/>
+    <position name="Fiber_pos_btm_32" unit="cm" x="0.15" y="-9.045" z="0"/>
+    <rotation name="Fiber_rot_btm_32" unit="degree" x="0.0" y="90.0" z="0.0"/>
+    <position name="Fiber_pos_btm_33" unit="cm" x="0.15" y="-8.865" z="0"/>
+    <rotation name="Fiber_rot_btm_33" unit="degree" x="0.0" y="90.0" z="0.0"/>
+    <position name="Fiber_pos_btm_34" unit="cm" x="0.15" y="-8.685" z="0"/>
+    <rotation name="Fiber_rot_btm_34" unit="degree" x="0.0" y="90.0" z="0.0"/>
+    <position name="Fiber_pos_btm_35" unit="cm" x="0.15" y="-8.505" z="0"/>
+    <rotation name="Fiber_rot_btm_35" unit="degree" x="0.0" y="90.0" z="0.0"/>
+    <position name="Fiber_pos_btm_36" unit="cm" x="0.15" y="-8.325" z="0"/>
+    <rotation name="Fiber_rot_btm_36" unit="degree" x="0.0" y="90.0" z="0.0"/>
+    <position name="Fiber_pos_btm_37" unit="cm" x="0.15" y="-8.145" z="0"/>
+    <rotation name="Fiber_rot_btm_37" unit="degree" x="0.0" y="90.0" z="0.0"/>
+    <position name="Fiber_pos_btm_38" unit="cm" x="0.15" y="-7.965" z="0"/>
+    <rotation name="Fiber_rot_btm_38" unit="degree" x="0.0" y="90.0" z="0.0"/>
+    <position name="Fiber_pos_btm_39" unit="cm" x="0.15" y="-7.785" z="0"/>
+    <rotation name="Fiber_rot_btm_39" unit="degree" x="0.0" y="90.0" z="0.0"/>
+    <position name="Fiber_pos_btm_40" unit="cm" x="0.15" y="-7.605" z="0"/>
+    <rotation name="Fiber_rot_btm_40" unit="degree" x="0.0" y="90.0" z="0.0"/>
+    <position name="Fiber_pos_btm_41" unit="cm" x="0.15" y="-7.425" z="0"/>
+    <rotation name="Fiber_rot_btm_41" unit="degree" x="0.0" y="90.0" z="0.0"/>
+    <position name="Fiber_pos_btm_42" unit="cm" x="0.15" y="-7.245" z="0"/>
+    <rotation name="Fiber_rot_btm_42" unit="degree" x="0.0" y="90.0" z="0.0"/>
+    <position name="Fiber_pos_btm_43" unit="cm" x="0.15" y="-7.065" z="0"/>
+    <rotation name="Fiber_rot_btm_43" unit="degree" x="0.0" y="90.0" z="0.0"/>
+    <position name="Fiber_pos_btm_44" unit="cm" x="0.15" y="-6.885" z="0"/>
+    <rotation name="Fiber_rot_btm_44" unit="degree" x="0.0" y="90.0" z="0.0"/>
+    <position name="Fiber_pos_btm_45" unit="cm" x="0.15" y="-6.705" z="0"/>
+    <rotation name="Fiber_rot_btm_45" unit="degree" x="0.0" y="90.0" z="0.0"/>
+    <position name="Fiber_pos_btm_46" unit="cm" x="0.15" y="-6.525" z="0"/>
+    <rotation name="Fiber_rot_btm_46" unit="degree" x="0.0" y="90.0" z="0.0"/>
+    <position name="Fiber_pos_btm_47" unit="cm" x="0.15" y="-6.345" z="0"/>
+    <rotation name="Fiber_rot_btm_47" unit="degree" x="0.0" y="90.0" z="0.0"/>
+    <position name="Fiber_pos_btm_48" unit="cm" x="0.15" y="-6.165" z="0"/>
+    <rotation name="Fiber_rot_btm_48" unit="degree" x="0.0" y="90.0" z="0.0"/>
+    <position name="Fiber_pos_btm_49" unit="cm" x="0.15" y="-5.985" z="0"/>
+    <rotation name="Fiber_rot_btm_49" unit="degree" x="0.0" y="90.0" z="0.0"/>
+    <position name="Fiber_pos_center_0" unit="cm" x="0.15" y="-4.51" z="0"/>
+    <rotation name="Fiber_rot_center_0" unit="degree" x="0.0" y="90.0" z="0.0"/>
+    <position name="Fiber_pos_center_1" unit="cm" x="0.15" y="-4.33" z="0"/>
+    <rotation name="Fiber_rot_center_1" unit="degree" x="0.0" y="90.0" z="0.0"/>
+    <position name="Fiber_pos_center_2" unit="cm" x="0.15" y="-4.15" z="0"/>
+    <rotation name="Fiber_rot_center_2" unit="degree" x="0.0" y="90.0" z="0.0"/>
+    <position name="Fiber_pos_center_3" unit="cm" x="0.15" y="-3.97" z="0"/>
+    <rotation name="Fiber_rot_center_3" unit="degree" x="0.0" y="90.0" z="0.0"/>
+    <position name="Fiber_pos_center_4" unit="cm" x="0.15" y="-3.79" z="0"/>
+    <rotation name="Fiber_rot_center_4" unit="degree" x="0.0" y="90.0" z="0.0"/>
+    <position name="Fiber_pos_center_5" unit="cm" x="0.15" y="-3.61" z="0"/>
+    <rotation name="Fiber_rot_center_5" unit="degree" x="0.0" y="90.0" z="0.0"/>
+    <position name="Fiber_pos_center_6" unit="cm" x="0.15" y="-3.43" z="0"/>
+    <rotation name="Fiber_rot_center_6" unit="degree" x="0.0" y="90.0" z="0.0"/>
+    <position name="Fiber_pos_center_7" unit="cm" x="0.15" y="-3.25" z="0"/>
+    <rotation name="Fiber_rot_center_7" unit="degree" x="0.0" y="90.0" z="0.0"/>
+    <position name="Fiber_pos_center_8" unit="cm" x="0.15" y="-3.07" z="0"/>
+    <rotation name="Fiber_rot_center_8" unit="degree" x="0.0" y="90.0" z="0.0"/>
+    <position name="Fiber_pos_center_9" unit="cm" x="0.15" y="-2.89" z="0"/>
+    <rotation name="Fiber_rot_center_9" unit="degree" x="0.0" y="90.0" z="0.0"/>
+    <position name="Fiber_pos_center_10" unit="cm" x="0.15" y="-2.71" z="0"/>
+    <rotation name="Fiber_rot_center_10" unit="degree" x="0.0" y="90.0" z="0.0"/>
+    <position name="Fiber_pos_center_11" unit="cm" x="0.15" y="-2.53" z="0"/>
+    <rotation name="Fiber_rot_center_11" unit="degree" x="0.0" y="90.0" z="0.0"/>
+    <position name="Fiber_pos_center_12" unit="cm" x="0.15" y="-2.35" z="0"/>
+    <rotation name="Fiber_rot_center_12" unit="degree" x="0.0" y="90.0" z="0.0"/>
+    <position name="Fiber_pos_center_13" unit="cm" x="0.15" y="-2.17" z="0"/>
+    <rotation name="Fiber_rot_center_13" unit="degree" x="0.0" y="90.0" z="0.0"/>
+    <position name="Fiber_pos_center_14" unit="cm" x="0.15" y="-1.99" z="0"/>
+    <rotation name="Fiber_rot_center_14" unit="degree" x="0.0" y="90.0" z="0.0"/>
+    <position name="Fiber_pos_center_15" unit="cm" x="0.15" y="-1.81" z="0"/>
+    <rotation name="Fiber_rot_center_15" unit="degree" x="0.0" y="90.0" z="0.0"/>
+    <position name="Fiber_pos_center_16" unit="cm" x="0.15" y="-1.63" z="0"/>
+    <rotation name="Fiber_rot_center_16" unit="degree" x="0.0" y="90.0" z="0.0"/>
+    <position name="Fiber_pos_center_17" unit="cm" x="0.15" y="-1.45" z="0"/>
+    <rotation name="Fiber_rot_center_17" unit="degree" x="0.0" y="90.0" z="0.0"/>
+    <position name="Fiber_pos_center_18" unit="cm" x="0.15" y="-1.27" z="0"/>
+    <rotation name="Fiber_rot_center_18" unit="degree" x="0.0" y="90.0" z="0.0"/>
+    <position name="Fiber_pos_center_19" unit="cm" x="0.15" y="-1.09" z="0"/>
+    <rotation name="Fiber_rot_center_19" unit="degree" x="0.0" y="90.0" z="0.0"/>
+    <position name="Fiber_pos_center_20" unit="cm" x="0.15" y="-0.91" z="0"/>
+    <rotation name="Fiber_rot_center_20" unit="degree" x="0.0" y="90.0" z="0.0"/>
+    <position name="Fiber_pos_center_21" unit="cm" x="0.15" y="-0.73" z="0"/>
+    <rotation name="Fiber_rot_center_21" unit="degree" x="0.0" y="90.0" z="0.0"/>
+    <position name="Fiber_pos_center_22" unit="cm" x="0.15" y="-0.55" z="0"/>
+    <rotation name="Fiber_rot_center_22" unit="degree" x="0.0" y="90.0" z="0.0"/>
+    <position name="Fiber_pos_center_23" unit="cm" x="0.15" y="-0.37" z="0"/>
+    <rotation name="Fiber_rot_center_23" unit="degree" x="0.0" y="90.0" z="0.0"/>
+    <position name="Fiber_pos_center_24" unit="cm" x="0.15" y="-0.19" z="0"/>
+    <rotation name="Fiber_rot_center_24" unit="degree" x="0.0" y="90.0" z="0.0"/>
+    <position name="Fiber_pos_center_25" unit="cm" x="0.15" y="0.19" z="0"/>
+    <rotation name="Fiber_rot_center_25" unit="degree" x="0.0" y="90.0" z="0.0"/>
+    <position name="Fiber_pos_center_26" unit="cm" x="0.15" y="0.37" z="0"/>
+    <rotation name="Fiber_rot_center_26" unit="degree" x="0.0" y="90.0" z="0.0"/>
+    <position name="Fiber_pos_center_27" unit="cm" x="0.15" y="0.55" z="0"/>
+    <rotation name="Fiber_rot_center_27" unit="degree" x="0.0" y="90.0" z="0.0"/>
+    <position name="Fiber_pos_center_28" unit="cm" x="0.15" y="0.73" z="0"/>
+    <rotation name="Fiber_rot_center_28" unit="degree" x="0.0" y="90.0" z="0.0"/>
+    <position name="Fiber_pos_center_29" unit="cm" x="0.15" y="0.91" z="0"/>
+    <rotation name="Fiber_rot_center_29" unit="degree" x="0.0" y="90.0" z="0.0"/>
+    <position name="Fiber_pos_center_30" unit="cm" x="0.15" y="1.09" z="0"/>
+    <rotation name="Fiber_rot_center_30" unit="degree" x="0.0" y="90.0" z="0.0"/>
+    <position name="Fiber_pos_center_31" unit="cm" x="0.15" y="1.27" z="0"/>
+    <rotation name="Fiber_rot_center_31" unit="degree" x="0.0" y="90.0" z="0.0"/>
+    <position name="Fiber_pos_center_32" unit="cm" x="0.15" y="1.45" z="0"/>
+    <rotation name="Fiber_rot_center_32" unit="degree" x="0.0" y="90.0" z="0.0"/>
+    <position name="Fiber_pos_center_33" unit="cm" x="0.15" y="1.63" z="0"/>
+    <rotation name="Fiber_rot_center_33" unit="degree" x="0.0" y="90.0" z="0.0"/>
+    <position name="Fiber_pos_center_34" unit="cm" x="0.15" y="1.81" z="0"/>
+    <rotation name="Fiber_rot_center_34" unit="degree" x="0.0" y="90.0" z="0.0"/>
+    <position name="Fiber_pos_center_35" unit="cm" x="0.15" y="1.99" z="0"/>
+    <rotation name="Fiber_rot_center_35" unit="degree" x="0.0" y="90.0" z="0.0"/>
+    <position name="Fiber_pos_center_36" unit="cm" x="0.15" y="2.17" z="0"/>
+    <rotation name="Fiber_rot_center_36" unit="degree" x="0.0" y="90.0" z="0.0"/>
+    <position name="Fiber_pos_center_37" unit="cm" x="0.15" y="2.35" z="0"/>
+    <rotation name="Fiber_rot_center_37" unit="degree" x="0.0" y="90.0" z="0.0"/>
+    <position name="Fiber_pos_center_38" unit="cm" x="0.15" y="2.53" z="0"/>
+    <rotation name="Fiber_rot_center_38" unit="degree" x="0.0" y="90.0" z="0.0"/>
+    <position name="Fiber_pos_center_39" unit="cm" x="0.15" y="2.71" z="0"/>
+    <rotation name="Fiber_rot_center_39" unit="degree" x="0.0" y="90.0" z="0.0"/>
+    <position name="Fiber_pos_center_40" unit="cm" x="0.15" y="2.89" z="0"/>
+    <rotation name="Fiber_rot_center_40" unit="degree" x="0.0" y="90.0" z="0.0"/>
+    <position name="Fiber_pos_center_41" unit="cm" x="0.15" y="3.07" z="0"/>
+    <rotation name="Fiber_rot_center_41" unit="degree" x="0.0" y="90.0" z="0.0"/>
+    <position name="Fiber_pos_center_42" unit="cm" x="0.15" y="3.25" z="0"/>
+    <rotation name="Fiber_rot_center_42" unit="degree" x="0.0" y="90.0" z="0.0"/>
+    <position name="Fiber_pos_center_43" unit="cm" x="0.15" y="3.43" z="0"/>
+    <rotation name="Fiber_rot_center_43" unit="degree" x="0.0" y="90.0" z="0.0"/>
+    <position name="Fiber_pos_center_44" unit="cm" x="0.15" y="3.61" z="0"/>
+    <rotation name="Fiber_rot_center_44" unit="degree" x="0.0" y="90.0" z="0.0"/>
+    <position name="Fiber_pos_center_45" unit="cm" x="0.15" y="3.79" z="0"/>
+    <rotation name="Fiber_rot_center_45" unit="degree" x="0.0" y="90.0" z="0.0"/>
+    <position name="Fiber_pos_center_46" unit="cm" x="0.15" y="3.97" z="0"/>
+    <rotation name="Fiber_rot_center_46" unit="degree" x="0.0" y="90.0" z="0.0"/>
+    <position name="Fiber_pos_center_47" unit="cm" x="0.15" y="4.15" z="0"/>
+    <rotation name="Fiber_rot_center_47" unit="degree" x="0.0" y="90.0" z="0.0"/>
+    <position name="Fiber_pos_center_48" unit="cm" x="0.15" y="4.33" z="0"/>
+    <rotation name="Fiber_rot_center_48" unit="degree" x="0.0" y="90.0" z="0.0"/>
+    <position name="Fiber_pos_center_49" unit="cm" x="0.15" y="4.51" z="0"/>
+    <rotation name="Fiber_rot_center_49" unit="degree" x="0.0" y="90.0" z="0.0"/>
+    <position name="Fiber_pos_top_0" unit="cm" x="0.15" y="5.985" z="0"/>
+    <rotation name="Fiber_rot_top_0" unit="degree" x="0.0" y="90.0" z="0.0"/>
+    <position name="Fiber_pos_top_1" unit="cm" x="0.15" y="6.165" z="0"/>
+    <rotation name="Fiber_rot_top_1" unit="degree" x="0.0" y="90.0" z="0.0"/>
+    <position name="Fiber_pos_top_2" unit="cm" x="0.15" y="6.345" z="0"/>
+    <rotation name="Fiber_rot_top_2" unit="degree" x="0.0" y="90.0" z="0.0"/>
+    <position name="Fiber_pos_top_3" unit="cm" x="0.15" y="6.525" z="0"/>
+    <rotation name="Fiber_rot_top_3" unit="degree" x="0.0" y="90.0" z="0.0"/>
+    <position name="Fiber_pos_top_4" unit="cm" x="0.15" y="6.705" z="0"/>
+    <rotation name="Fiber_rot_top_4" unit="degree" x="0.0" y="90.0" z="0.0"/>
+    <position name="Fiber_pos_top_5" unit="cm" x="0.15" y="6.885" z="0"/>
+    <rotation name="Fiber_rot_top_5" unit="degree" x="0.0" y="90.0" z="0.0"/>
+    <position name="Fiber_pos_top_6" unit="cm" x="0.15" y="7.065" z="0"/>
+    <rotation name="Fiber_rot_top_6" unit="degree" x="0.0" y="90.0" z="0.0"/>
+    <position name="Fiber_pos_top_7" unit="cm" x="0.15" y="7.245" z="0"/>
+    <rotation name="Fiber_rot_top_7" unit="degree" x="0.0" y="90.0" z="0.0"/>
+    <position name="Fiber_pos_top_8" unit="cm" x="0.15" y="7.425" z="0"/>
+    <rotation name="Fiber_rot_top_8" unit="degree" x="0.0" y="90.0" z="0.0"/>
+    <position name="Fiber_pos_top_9" unit="cm" x="0.15" y="7.605" z="0"/>
+    <rotation name="Fiber_rot_top_9" unit="degree" x="0.0" y="90.0" z="0.0"/>
+    <position name="Fiber_pos_top_10" unit="cm" x="0.15" y="7.785" z="0"/>
+    <rotation name="Fiber_rot_top_10" unit="degree" x="0.0" y="90.0" z="0.0"/>
+    <position name="Fiber_pos_top_11" unit="cm" x="0.15" y="7.965" z="0"/>
+    <rotation name="Fiber_rot_top_11" unit="degree" x="0.0" y="90.0" z="0.0"/>
+    <position name="Fiber_pos_top_12" unit="cm" x="0.15" y="8.145" z="0"/>
+    <rotation name="Fiber_rot_top_12" unit="degree" x="0.0" y="90.0" z="0.0"/>
+    <position name="Fiber_pos_top_13" unit="cm" x="0.15" y="8.325" z="0"/>
+    <rotation name="Fiber_rot_top_13" unit="degree" x="0.0" y="90.0" z="0.0"/>
+    <position name="Fiber_pos_top_14" unit="cm" x="0.15" y="8.505" z="0"/>
+    <rotation name="Fiber_rot_top_14" unit="degree" x="0.0" y="90.0" z="0.0"/>
+    <position name="Fiber_pos_top_15" unit="cm" x="0.15" y="8.685" z="0"/>
+    <rotation name="Fiber_rot_top_15" unit="degree" x="0.0" y="90.0" z="0.0"/>
+    <position name="Fiber_pos_top_16" unit="cm" x="0.15" y="8.865" z="0"/>
+    <rotation name="Fiber_rot_top_16" unit="degree" x="0.0" y="90.0" z="0.0"/>
+    <position name="Fiber_pos_top_17" unit="cm" x="0.15" y="9.045" z="0"/>
+    <rotation name="Fiber_rot_top_17" unit="degree" x="0.0" y="90.0" z="0.0"/>
+    <position name="Fiber_pos_top_18" unit="cm" x="0.15" y="9.225" z="0"/>
+    <rotation name="Fiber_rot_top_18" unit="degree" x="0.0" y="90.0" z="0.0"/>
+    <position name="Fiber_pos_top_19" unit="cm" x="0.15" y="9.405" z="0"/>
+    <rotation name="Fiber_rot_top_19" unit="degree" x="0.0" y="90.0" z="0.0"/>
+    <position name="Fiber_pos_top_20" unit="cm" x="0.15" y="9.585" z="0"/>
+    <rotation name="Fiber_rot_top_20" unit="degree" x="0.0" y="90.0" z="0.0"/>
+    <position name="Fiber_pos_top_21" unit="cm" x="0.15" y="9.765" z="0"/>
+    <rotation name="Fiber_rot_top_21" unit="degree" x="0.0" y="90.0" z="0.0"/>
+    <position name="Fiber_pos_top_22" unit="cm" x="0.15" y="9.945" z="0"/>
+    <rotation name="Fiber_rot_top_22" unit="degree" x="0.0" y="90.0" z="0.0"/>
+    <position name="Fiber_pos_top_23" unit="cm" x="0.15" y="10.125" z="0"/>
+    <rotation name="Fiber_rot_top_23" unit="degree" x="0.0" y="90.0" z="0.0"/>
+    <position name="Fiber_pos_top_24" unit="cm" x="0.15" y="10.305" z="0"/>
+    <rotation name="Fiber_rot_top_24" unit="degree" x="0.0" y="90.0" z="0.0"/>
+    <position name="Fiber_pos_top_25" unit="cm" x="0.15" y="10.685" z="0"/>
+    <rotation name="Fiber_rot_top_25" unit="degree" x="0.0" y="90.0" z="0.0"/>
+    <position name="Fiber_pos_top_26" unit="cm" x="0.15" y="10.865" z="0"/>
+    <rotation name="Fiber_rot_top_26" unit="degree" x="0.0" y="90.0" z="0.0"/>
+    <position name="Fiber_pos_top_27" unit="cm" x="0.15" y="11.045" z="0"/>
+    <rotation name="Fiber_rot_top_27" unit="degree" x="0.0" y="90.0" z="0.0"/>
+    <position name="Fiber_pos_top_28" unit="cm" x="0.15" y="11.225" z="0"/>
+    <rotation name="Fiber_rot_top_28" unit="degree" x="0.0" y="90.0" z="0.0"/>
+    <position name="Fiber_pos_top_29" unit="cm" x="0.15" y="11.405" z="0"/>
+    <rotation name="Fiber_rot_top_29" unit="degree" x="0.0" y="90.0" z="0.0"/>
+    <position name="Fiber_pos_top_30" unit="cm" x="0.15" y="11.585" z="0"/>
+    <rotation name="Fiber_rot_top_30" unit="degree" x="0.0" y="90.0" z="0.0"/>
+    <position name="Fiber_pos_top_31" unit="cm" x="0.15" y="11.765" z="0"/>
+    <rotation name="Fiber_rot_top_31" unit="degree" x="0.0" y="90.0" z="0.0"/>
+    <position name="Fiber_pos_top_32" unit="cm" x="0.15" y="11.945" z="0"/>
+    <rotation name="Fiber_rot_top_32" unit="degree" x="0.0" y="90.0" z="0.0"/>
+    <position name="Fiber_pos_top_33" unit="cm" x="0.15" y="12.125" z="0"/>
+    <rotation name="Fiber_rot_top_33" unit="degree" x="0.0" y="90.0" z="0.0"/>
+    <position name="Fiber_pos_top_34" unit="cm" x="0.15" y="12.305" z="0"/>
+    <rotation name="Fiber_rot_top_34" unit="degree" x="0.0" y="90.0" z="0.0"/>
+    <position name="Fiber_pos_top_35" unit="cm" x="0.15" y="12.485" z="0"/>
+    <rotation name="Fiber_rot_top_35" unit="degree" x="0.0" y="90.0" z="0.0"/>
+    <position name="Fiber_pos_top_36" unit="cm" x="0.15" y="12.665" z="0"/>
+    <rotation name="Fiber_rot_top_36" unit="degree" x="0.0" y="90.0" z="0.0"/>
+    <position name="Fiber_pos_top_37" unit="cm" x="0.15" y="12.845" z="0"/>
+    <rotation name="Fiber_rot_top_37" unit="degree" x="0.0" y="90.0" z="0.0"/>
+    <position name="Fiber_pos_top_38" unit="cm" x="0.15" y="13.025" z="0"/>
+    <rotation name="Fiber_rot_top_38" unit="degree" x="0.0" y="90.0" z="0.0"/>
+    <position name="Fiber_pos_top_39" unit="cm" x="0.15" y="13.205" z="0"/>
+    <rotation name="Fiber_rot_top_39" unit="degree" x="0.0" y="90.0" z="0.0"/>
+    <position name="Fiber_pos_top_40" unit="cm" x="0.15" y="13.385" z="0"/>
+    <rotation name="Fiber_rot_top_40" unit="degree" x="0.0" y="90.0" z="0.0"/>
+    <position name="Fiber_pos_top_41" unit="cm" x="0.15" y="13.565" z="0"/>
+    <rotation name="Fiber_rot_top_41" unit="degree" x="0.0" y="90.0" z="0.0"/>
+    <position name="Fiber_pos_top_42" unit="cm" x="0.15" y="13.745" z="0"/>
+    <rotation name="Fiber_rot_top_42" unit="degree" x="0.0" y="90.0" z="0.0"/>
+    <position name="Fiber_pos_top_43" unit="cm" x="0.15" y="13.925" z="0"/>
+    <rotation name="Fiber_rot_top_43" unit="degree" x="0.0" y="90.0" z="0.0"/>
+    <position name="Fiber_pos_top_44" unit="cm" x="0.15" y="14.105" z="0"/>
+    <rotation name="Fiber_rot_top_44" unit="degree" x="0.0" y="90.0" z="0.0"/>
+    <position name="Fiber_pos_top_45" unit="cm" x="0.15" y="14.285" z="0"/>
+    <rotation name="Fiber_rot_top_45" unit="degree" x="0.0" y="90.0" z="0.0"/>
+    <position name="Fiber_pos_top_46" unit="cm" x="0.15" y="14.465" z="0"/>
+    <rotation name="Fiber_rot_top_46" unit="degree" x="0.0" y="90.0" z="0.0"/>
+    <position name="Fiber_pos_top_47" unit="cm" x="0.15" y="14.645" z="0"/>
+    <rotation name="Fiber_rot_top_47" unit="degree" x="0.0" y="90.0" z="0.0"/>
+    <position name="Fiber_pos_top_48" unit="cm" x="0.15" y="14.825" z="0"/>
+    <rotation name="Fiber_rot_top_48" unit="degree" x="0.0" y="90.0" z="0.0"/>
+    <position name="Fiber_pos_top_49" unit="cm" x="0.15" y="15.005" z="0"/>
+    <rotation name="Fiber_rot_top_49" unit="degree" x="0.0" y="90.0" z="0.0"/>
     <position name="SiPM_LCM_Mask_pos_near_0" unit="cm" x="-13.85" y="-10.495" z="0.0"/>
     <position name="SiPM_LCM_Mask_pos_far_0" unit="cm" x="14.15" y="-10.495" z="0.0"/>
     <rotation name="SiPM_LCM_Mask_rot_far_0" unit="degree" x="0.0" y="180.0" z="0.0"/>
@@ -1039,7 +1039,7 @@
     <box lunit="cm" name="SiPM_shape" x="0.147" y="0.6" z="0.6"/>
     <box lunit="cm" name="SiPM_PCB_shape" x="0.3" y="9.95" z="1.0"/>
     <box lunit="cm" name="LCM" x="28.465" y="30.94" z="1.0"/>
-    <tube aunit="radian" deltaphi="6.28318530718" lunit="cm" name="Fibre_panel_shape" rmax="0.06" rmin="0.0" startphi="0.0" z="27.835"/>
+    <tube aunit="radian" deltaphi="6.28318530718" lunit="cm" name="Fiber_panel_shape" rmax="0.06" rmin="0.0" startphi="0.0" z="27.835"/>
     <box lunit="cm" name="SiPM_LCM_Mask_shape" x="0.165" y="9.95" z="1.0"/>
     <box lunit="cm" name="SiPM_LCM_shape" x="0.147" y="9.95" z="0.6"/>
     <box lunit="cm" name="SiPM_LCM_PCB_shape" x="0.3" y="9.95" z="1.0"/>
@@ -1637,9 +1637,9 @@
         <rotationref ref="identity"/>
       </physvol>
     </volume>
-    <volume name="volFibre">
+    <volume name="volFiber">
       <materialref ref="EJ280WLS"/>
-      <solidref ref="Fibre_panel_shape"/>
+      <solidref ref="Fiber_panel_shape"/>
     </volume>
     <volume name="volSiPM_LCM">
       <materialref ref="Silicon"/>
@@ -1662,754 +1662,754 @@
       <materialref ref="LAr"/>
       <solidref ref="LCM"/>
       <physvol>
-        <volumeref ref="volFibre"/>
-        <positionref ref="Fibre_pos_btm_0"/>
-        <rotationref ref="Fibre_rot_btm_0"/>
+        <volumeref ref="volFiber"/>
+        <positionref ref="Fiber_pos_btm_0"/>
+        <rotationref ref="Fiber_rot_btm_0"/>
       </physvol>
       <physvol>
-        <volumeref ref="volFibre"/>
-        <positionref ref="Fibre_pos_btm_1"/>
-        <rotationref ref="Fibre_rot_btm_1"/>
+        <volumeref ref="volFiber"/>
+        <positionref ref="Fiber_pos_btm_1"/>
+        <rotationref ref="Fiber_rot_btm_1"/>
       </physvol>
       <physvol>
-        <volumeref ref="volFibre"/>
-        <positionref ref="Fibre_pos_btm_2"/>
-        <rotationref ref="Fibre_rot_btm_2"/>
+        <volumeref ref="volFiber"/>
+        <positionref ref="Fiber_pos_btm_2"/>
+        <rotationref ref="Fiber_rot_btm_2"/>
       </physvol>
       <physvol>
-        <volumeref ref="volFibre"/>
-        <positionref ref="Fibre_pos_btm_3"/>
-        <rotationref ref="Fibre_rot_btm_3"/>
+        <volumeref ref="volFiber"/>
+        <positionref ref="Fiber_pos_btm_3"/>
+        <rotationref ref="Fiber_rot_btm_3"/>
       </physvol>
       <physvol>
-        <volumeref ref="volFibre"/>
-        <positionref ref="Fibre_pos_btm_4"/>
-        <rotationref ref="Fibre_rot_btm_4"/>
+        <volumeref ref="volFiber"/>
+        <positionref ref="Fiber_pos_btm_4"/>
+        <rotationref ref="Fiber_rot_btm_4"/>
       </physvol>
       <physvol>
-        <volumeref ref="volFibre"/>
-        <positionref ref="Fibre_pos_btm_5"/>
-        <rotationref ref="Fibre_rot_btm_5"/>
+        <volumeref ref="volFiber"/>
+        <positionref ref="Fiber_pos_btm_5"/>
+        <rotationref ref="Fiber_rot_btm_5"/>
       </physvol>
       <physvol>
-        <volumeref ref="volFibre"/>
-        <positionref ref="Fibre_pos_btm_6"/>
-        <rotationref ref="Fibre_rot_btm_6"/>
+        <volumeref ref="volFiber"/>
+        <positionref ref="Fiber_pos_btm_6"/>
+        <rotationref ref="Fiber_rot_btm_6"/>
       </physvol>
       <physvol>
-        <volumeref ref="volFibre"/>
-        <positionref ref="Fibre_pos_btm_7"/>
-        <rotationref ref="Fibre_rot_btm_7"/>
+        <volumeref ref="volFiber"/>
+        <positionref ref="Fiber_pos_btm_7"/>
+        <rotationref ref="Fiber_rot_btm_7"/>
       </physvol>
       <physvol>
-        <volumeref ref="volFibre"/>
-        <positionref ref="Fibre_pos_btm_8"/>
-        <rotationref ref="Fibre_rot_btm_8"/>
+        <volumeref ref="volFiber"/>
+        <positionref ref="Fiber_pos_btm_8"/>
+        <rotationref ref="Fiber_rot_btm_8"/>
       </physvol>
       <physvol>
-        <volumeref ref="volFibre"/>
-        <positionref ref="Fibre_pos_btm_9"/>
-        <rotationref ref="Fibre_rot_btm_9"/>
+        <volumeref ref="volFiber"/>
+        <positionref ref="Fiber_pos_btm_9"/>
+        <rotationref ref="Fiber_rot_btm_9"/>
       </physvol>
       <physvol>
-        <volumeref ref="volFibre"/>
-        <positionref ref="Fibre_pos_btm_10"/>
-        <rotationref ref="Fibre_rot_btm_10"/>
+        <volumeref ref="volFiber"/>
+        <positionref ref="Fiber_pos_btm_10"/>
+        <rotationref ref="Fiber_rot_btm_10"/>
       </physvol>
       <physvol>
-        <volumeref ref="volFibre"/>
-        <positionref ref="Fibre_pos_btm_11"/>
-        <rotationref ref="Fibre_rot_btm_11"/>
+        <volumeref ref="volFiber"/>
+        <positionref ref="Fiber_pos_btm_11"/>
+        <rotationref ref="Fiber_rot_btm_11"/>
       </physvol>
       <physvol>
-        <volumeref ref="volFibre"/>
-        <positionref ref="Fibre_pos_btm_12"/>
-        <rotationref ref="Fibre_rot_btm_12"/>
+        <volumeref ref="volFiber"/>
+        <positionref ref="Fiber_pos_btm_12"/>
+        <rotationref ref="Fiber_rot_btm_12"/>
       </physvol>
       <physvol>
-        <volumeref ref="volFibre"/>
-        <positionref ref="Fibre_pos_btm_13"/>
-        <rotationref ref="Fibre_rot_btm_13"/>
+        <volumeref ref="volFiber"/>
+        <positionref ref="Fiber_pos_btm_13"/>
+        <rotationref ref="Fiber_rot_btm_13"/>
       </physvol>
       <physvol>
-        <volumeref ref="volFibre"/>
-        <positionref ref="Fibre_pos_btm_14"/>
-        <rotationref ref="Fibre_rot_btm_14"/>
+        <volumeref ref="volFiber"/>
+        <positionref ref="Fiber_pos_btm_14"/>
+        <rotationref ref="Fiber_rot_btm_14"/>
       </physvol>
       <physvol>
-        <volumeref ref="volFibre"/>
-        <positionref ref="Fibre_pos_btm_15"/>
-        <rotationref ref="Fibre_rot_btm_15"/>
+        <volumeref ref="volFiber"/>
+        <positionref ref="Fiber_pos_btm_15"/>
+        <rotationref ref="Fiber_rot_btm_15"/>
       </physvol>
       <physvol>
-        <volumeref ref="volFibre"/>
-        <positionref ref="Fibre_pos_btm_16"/>
-        <rotationref ref="Fibre_rot_btm_16"/>
+        <volumeref ref="volFiber"/>
+        <positionref ref="Fiber_pos_btm_16"/>
+        <rotationref ref="Fiber_rot_btm_16"/>
       </physvol>
       <physvol>
-        <volumeref ref="volFibre"/>
-        <positionref ref="Fibre_pos_btm_17"/>
-        <rotationref ref="Fibre_rot_btm_17"/>
+        <volumeref ref="volFiber"/>
+        <positionref ref="Fiber_pos_btm_17"/>
+        <rotationref ref="Fiber_rot_btm_17"/>
       </physvol>
       <physvol>
-        <volumeref ref="volFibre"/>
-        <positionref ref="Fibre_pos_btm_18"/>
-        <rotationref ref="Fibre_rot_btm_18"/>
+        <volumeref ref="volFiber"/>
+        <positionref ref="Fiber_pos_btm_18"/>
+        <rotationref ref="Fiber_rot_btm_18"/>
       </physvol>
       <physvol>
-        <volumeref ref="volFibre"/>
-        <positionref ref="Fibre_pos_btm_19"/>
-        <rotationref ref="Fibre_rot_btm_19"/>
+        <volumeref ref="volFiber"/>
+        <positionref ref="Fiber_pos_btm_19"/>
+        <rotationref ref="Fiber_rot_btm_19"/>
       </physvol>
       <physvol>
-        <volumeref ref="volFibre"/>
-        <positionref ref="Fibre_pos_btm_20"/>
-        <rotationref ref="Fibre_rot_btm_20"/>
+        <volumeref ref="volFiber"/>
+        <positionref ref="Fiber_pos_btm_20"/>
+        <rotationref ref="Fiber_rot_btm_20"/>
       </physvol>
       <physvol>
-        <volumeref ref="volFibre"/>
-        <positionref ref="Fibre_pos_btm_21"/>
-        <rotationref ref="Fibre_rot_btm_21"/>
+        <volumeref ref="volFiber"/>
+        <positionref ref="Fiber_pos_btm_21"/>
+        <rotationref ref="Fiber_rot_btm_21"/>
       </physvol>
       <physvol>
-        <volumeref ref="volFibre"/>
-        <positionref ref="Fibre_pos_btm_22"/>
-        <rotationref ref="Fibre_rot_btm_22"/>
+        <volumeref ref="volFiber"/>
+        <positionref ref="Fiber_pos_btm_22"/>
+        <rotationref ref="Fiber_rot_btm_22"/>
       </physvol>
       <physvol>
-        <volumeref ref="volFibre"/>
-        <positionref ref="Fibre_pos_btm_23"/>
-        <rotationref ref="Fibre_rot_btm_23"/>
+        <volumeref ref="volFiber"/>
+        <positionref ref="Fiber_pos_btm_23"/>
+        <rotationref ref="Fiber_rot_btm_23"/>
       </physvol>
       <physvol>
-        <volumeref ref="volFibre"/>
-        <positionref ref="Fibre_pos_btm_24"/>
-        <rotationref ref="Fibre_rot_btm_24"/>
+        <volumeref ref="volFiber"/>
+        <positionref ref="Fiber_pos_btm_24"/>
+        <rotationref ref="Fiber_rot_btm_24"/>
       </physvol>
       <physvol>
-        <volumeref ref="volFibre"/>
-        <positionref ref="Fibre_pos_btm_25"/>
-        <rotationref ref="Fibre_rot_btm_25"/>
+        <volumeref ref="volFiber"/>
+        <positionref ref="Fiber_pos_btm_25"/>
+        <rotationref ref="Fiber_rot_btm_25"/>
       </physvol>
       <physvol>
-        <volumeref ref="volFibre"/>
-        <positionref ref="Fibre_pos_btm_26"/>
-        <rotationref ref="Fibre_rot_btm_26"/>
+        <volumeref ref="volFiber"/>
+        <positionref ref="Fiber_pos_btm_26"/>
+        <rotationref ref="Fiber_rot_btm_26"/>
       </physvol>
       <physvol>
-        <volumeref ref="volFibre"/>
-        <positionref ref="Fibre_pos_btm_27"/>
-        <rotationref ref="Fibre_rot_btm_27"/>
+        <volumeref ref="volFiber"/>
+        <positionref ref="Fiber_pos_btm_27"/>
+        <rotationref ref="Fiber_rot_btm_27"/>
       </physvol>
       <physvol>
-        <volumeref ref="volFibre"/>
-        <positionref ref="Fibre_pos_btm_28"/>
-        <rotationref ref="Fibre_rot_btm_28"/>
+        <volumeref ref="volFiber"/>
+        <positionref ref="Fiber_pos_btm_28"/>
+        <rotationref ref="Fiber_rot_btm_28"/>
       </physvol>
       <physvol>
-        <volumeref ref="volFibre"/>
-        <positionref ref="Fibre_pos_btm_29"/>
-        <rotationref ref="Fibre_rot_btm_29"/>
+        <volumeref ref="volFiber"/>
+        <positionref ref="Fiber_pos_btm_29"/>
+        <rotationref ref="Fiber_rot_btm_29"/>
       </physvol>
       <physvol>
-        <volumeref ref="volFibre"/>
-        <positionref ref="Fibre_pos_btm_30"/>
-        <rotationref ref="Fibre_rot_btm_30"/>
+        <volumeref ref="volFiber"/>
+        <positionref ref="Fiber_pos_btm_30"/>
+        <rotationref ref="Fiber_rot_btm_30"/>
       </physvol>
       <physvol>
-        <volumeref ref="volFibre"/>
-        <positionref ref="Fibre_pos_btm_31"/>
-        <rotationref ref="Fibre_rot_btm_31"/>
+        <volumeref ref="volFiber"/>
+        <positionref ref="Fiber_pos_btm_31"/>
+        <rotationref ref="Fiber_rot_btm_31"/>
       </physvol>
       <physvol>
-        <volumeref ref="volFibre"/>
-        <positionref ref="Fibre_pos_btm_32"/>
-        <rotationref ref="Fibre_rot_btm_32"/>
+        <volumeref ref="volFiber"/>
+        <positionref ref="Fiber_pos_btm_32"/>
+        <rotationref ref="Fiber_rot_btm_32"/>
       </physvol>
       <physvol>
-        <volumeref ref="volFibre"/>
-        <positionref ref="Fibre_pos_btm_33"/>
-        <rotationref ref="Fibre_rot_btm_33"/>
+        <volumeref ref="volFiber"/>
+        <positionref ref="Fiber_pos_btm_33"/>
+        <rotationref ref="Fiber_rot_btm_33"/>
       </physvol>
       <physvol>
-        <volumeref ref="volFibre"/>
-        <positionref ref="Fibre_pos_btm_34"/>
-        <rotationref ref="Fibre_rot_btm_34"/>
+        <volumeref ref="volFiber"/>
+        <positionref ref="Fiber_pos_btm_34"/>
+        <rotationref ref="Fiber_rot_btm_34"/>
       </physvol>
       <physvol>
-        <volumeref ref="volFibre"/>
-        <positionref ref="Fibre_pos_btm_35"/>
-        <rotationref ref="Fibre_rot_btm_35"/>
+        <volumeref ref="volFiber"/>
+        <positionref ref="Fiber_pos_btm_35"/>
+        <rotationref ref="Fiber_rot_btm_35"/>
       </physvol>
       <physvol>
-        <volumeref ref="volFibre"/>
-        <positionref ref="Fibre_pos_btm_36"/>
-        <rotationref ref="Fibre_rot_btm_36"/>
+        <volumeref ref="volFiber"/>
+        <positionref ref="Fiber_pos_btm_36"/>
+        <rotationref ref="Fiber_rot_btm_36"/>
       </physvol>
       <physvol>
-        <volumeref ref="volFibre"/>
-        <positionref ref="Fibre_pos_btm_37"/>
-        <rotationref ref="Fibre_rot_btm_37"/>
+        <volumeref ref="volFiber"/>
+        <positionref ref="Fiber_pos_btm_37"/>
+        <rotationref ref="Fiber_rot_btm_37"/>
       </physvol>
       <physvol>
-        <volumeref ref="volFibre"/>
-        <positionref ref="Fibre_pos_btm_38"/>
-        <rotationref ref="Fibre_rot_btm_38"/>
+        <volumeref ref="volFiber"/>
+        <positionref ref="Fiber_pos_btm_38"/>
+        <rotationref ref="Fiber_rot_btm_38"/>
       </physvol>
       <physvol>
-        <volumeref ref="volFibre"/>
-        <positionref ref="Fibre_pos_btm_39"/>
-        <rotationref ref="Fibre_rot_btm_39"/>
+        <volumeref ref="volFiber"/>
+        <positionref ref="Fiber_pos_btm_39"/>
+        <rotationref ref="Fiber_rot_btm_39"/>
       </physvol>
       <physvol>
-        <volumeref ref="volFibre"/>
-        <positionref ref="Fibre_pos_btm_40"/>
-        <rotationref ref="Fibre_rot_btm_40"/>
+        <volumeref ref="volFiber"/>
+        <positionref ref="Fiber_pos_btm_40"/>
+        <rotationref ref="Fiber_rot_btm_40"/>
       </physvol>
       <physvol>
-        <volumeref ref="volFibre"/>
-        <positionref ref="Fibre_pos_btm_41"/>
-        <rotationref ref="Fibre_rot_btm_41"/>
+        <volumeref ref="volFiber"/>
+        <positionref ref="Fiber_pos_btm_41"/>
+        <rotationref ref="Fiber_rot_btm_41"/>
       </physvol>
       <physvol>
-        <volumeref ref="volFibre"/>
-        <positionref ref="Fibre_pos_btm_42"/>
-        <rotationref ref="Fibre_rot_btm_42"/>
+        <volumeref ref="volFiber"/>
+        <positionref ref="Fiber_pos_btm_42"/>
+        <rotationref ref="Fiber_rot_btm_42"/>
       </physvol>
       <physvol>
-        <volumeref ref="volFibre"/>
-        <positionref ref="Fibre_pos_btm_43"/>
-        <rotationref ref="Fibre_rot_btm_43"/>
+        <volumeref ref="volFiber"/>
+        <positionref ref="Fiber_pos_btm_43"/>
+        <rotationref ref="Fiber_rot_btm_43"/>
       </physvol>
       <physvol>
-        <volumeref ref="volFibre"/>
-        <positionref ref="Fibre_pos_btm_44"/>
-        <rotationref ref="Fibre_rot_btm_44"/>
+        <volumeref ref="volFiber"/>
+        <positionref ref="Fiber_pos_btm_44"/>
+        <rotationref ref="Fiber_rot_btm_44"/>
       </physvol>
       <physvol>
-        <volumeref ref="volFibre"/>
-        <positionref ref="Fibre_pos_btm_45"/>
-        <rotationref ref="Fibre_rot_btm_45"/>
+        <volumeref ref="volFiber"/>
+        <positionref ref="Fiber_pos_btm_45"/>
+        <rotationref ref="Fiber_rot_btm_45"/>
       </physvol>
       <physvol>
-        <volumeref ref="volFibre"/>
-        <positionref ref="Fibre_pos_btm_46"/>
-        <rotationref ref="Fibre_rot_btm_46"/>
+        <volumeref ref="volFiber"/>
+        <positionref ref="Fiber_pos_btm_46"/>
+        <rotationref ref="Fiber_rot_btm_46"/>
       </physvol>
       <physvol>
-        <volumeref ref="volFibre"/>
-        <positionref ref="Fibre_pos_btm_47"/>
-        <rotationref ref="Fibre_rot_btm_47"/>
+        <volumeref ref="volFiber"/>
+        <positionref ref="Fiber_pos_btm_47"/>
+        <rotationref ref="Fiber_rot_btm_47"/>
       </physvol>
       <physvol>
-        <volumeref ref="volFibre"/>
-        <positionref ref="Fibre_pos_btm_48"/>
-        <rotationref ref="Fibre_rot_btm_48"/>
+        <volumeref ref="volFiber"/>
+        <positionref ref="Fiber_pos_btm_48"/>
+        <rotationref ref="Fiber_rot_btm_48"/>
       </physvol>
       <physvol>
-        <volumeref ref="volFibre"/>
-        <positionref ref="Fibre_pos_btm_49"/>
-        <rotationref ref="Fibre_rot_btm_49"/>
+        <volumeref ref="volFiber"/>
+        <positionref ref="Fiber_pos_btm_49"/>
+        <rotationref ref="Fiber_rot_btm_49"/>
       </physvol>
       <physvol>
-        <volumeref ref="volFibre"/>
-        <positionref ref="Fibre_pos_center_0"/>
-        <rotationref ref="Fibre_rot_center_0"/>
+        <volumeref ref="volFiber"/>
+        <positionref ref="Fiber_pos_center_0"/>
+        <rotationref ref="Fiber_rot_center_0"/>
       </physvol>
       <physvol>
-        <volumeref ref="volFibre"/>
-        <positionref ref="Fibre_pos_center_1"/>
-        <rotationref ref="Fibre_rot_center_1"/>
+        <volumeref ref="volFiber"/>
+        <positionref ref="Fiber_pos_center_1"/>
+        <rotationref ref="Fiber_rot_center_1"/>
       </physvol>
       <physvol>
-        <volumeref ref="volFibre"/>
-        <positionref ref="Fibre_pos_center_2"/>
-        <rotationref ref="Fibre_rot_center_2"/>
+        <volumeref ref="volFiber"/>
+        <positionref ref="Fiber_pos_center_2"/>
+        <rotationref ref="Fiber_rot_center_2"/>
       </physvol>
       <physvol>
-        <volumeref ref="volFibre"/>
-        <positionref ref="Fibre_pos_center_3"/>
-        <rotationref ref="Fibre_rot_center_3"/>
+        <volumeref ref="volFiber"/>
+        <positionref ref="Fiber_pos_center_3"/>
+        <rotationref ref="Fiber_rot_center_3"/>
       </physvol>
       <physvol>
-        <volumeref ref="volFibre"/>
-        <positionref ref="Fibre_pos_center_4"/>
-        <rotationref ref="Fibre_rot_center_4"/>
+        <volumeref ref="volFiber"/>
+        <positionref ref="Fiber_pos_center_4"/>
+        <rotationref ref="Fiber_rot_center_4"/>
       </physvol>
       <physvol>
-        <volumeref ref="volFibre"/>
-        <positionref ref="Fibre_pos_center_5"/>
-        <rotationref ref="Fibre_rot_center_5"/>
+        <volumeref ref="volFiber"/>
+        <positionref ref="Fiber_pos_center_5"/>
+        <rotationref ref="Fiber_rot_center_5"/>
       </physvol>
       <physvol>
-        <volumeref ref="volFibre"/>
-        <positionref ref="Fibre_pos_center_6"/>
-        <rotationref ref="Fibre_rot_center_6"/>
+        <volumeref ref="volFiber"/>
+        <positionref ref="Fiber_pos_center_6"/>
+        <rotationref ref="Fiber_rot_center_6"/>
       </physvol>
       <physvol>
-        <volumeref ref="volFibre"/>
-        <positionref ref="Fibre_pos_center_7"/>
-        <rotationref ref="Fibre_rot_center_7"/>
+        <volumeref ref="volFiber"/>
+        <positionref ref="Fiber_pos_center_7"/>
+        <rotationref ref="Fiber_rot_center_7"/>
       </physvol>
       <physvol>
-        <volumeref ref="volFibre"/>
-        <positionref ref="Fibre_pos_center_8"/>
-        <rotationref ref="Fibre_rot_center_8"/>
+        <volumeref ref="volFiber"/>
+        <positionref ref="Fiber_pos_center_8"/>
+        <rotationref ref="Fiber_rot_center_8"/>
       </physvol>
       <physvol>
-        <volumeref ref="volFibre"/>
-        <positionref ref="Fibre_pos_center_9"/>
-        <rotationref ref="Fibre_rot_center_9"/>
+        <volumeref ref="volFiber"/>
+        <positionref ref="Fiber_pos_center_9"/>
+        <rotationref ref="Fiber_rot_center_9"/>
       </physvol>
       <physvol>
-        <volumeref ref="volFibre"/>
-        <positionref ref="Fibre_pos_center_10"/>
-        <rotationref ref="Fibre_rot_center_10"/>
+        <volumeref ref="volFiber"/>
+        <positionref ref="Fiber_pos_center_10"/>
+        <rotationref ref="Fiber_rot_center_10"/>
       </physvol>
       <physvol>
-        <volumeref ref="volFibre"/>
-        <positionref ref="Fibre_pos_center_11"/>
-        <rotationref ref="Fibre_rot_center_11"/>
+        <volumeref ref="volFiber"/>
+        <positionref ref="Fiber_pos_center_11"/>
+        <rotationref ref="Fiber_rot_center_11"/>
       </physvol>
       <physvol>
-        <volumeref ref="volFibre"/>
-        <positionref ref="Fibre_pos_center_12"/>
-        <rotationref ref="Fibre_rot_center_12"/>
+        <volumeref ref="volFiber"/>
+        <positionref ref="Fiber_pos_center_12"/>
+        <rotationref ref="Fiber_rot_center_12"/>
       </physvol>
       <physvol>
-        <volumeref ref="volFibre"/>
-        <positionref ref="Fibre_pos_center_13"/>
-        <rotationref ref="Fibre_rot_center_13"/>
+        <volumeref ref="volFiber"/>
+        <positionref ref="Fiber_pos_center_13"/>
+        <rotationref ref="Fiber_rot_center_13"/>
       </physvol>
       <physvol>
-        <volumeref ref="volFibre"/>
-        <positionref ref="Fibre_pos_center_14"/>
-        <rotationref ref="Fibre_rot_center_14"/>
+        <volumeref ref="volFiber"/>
+        <positionref ref="Fiber_pos_center_14"/>
+        <rotationref ref="Fiber_rot_center_14"/>
       </physvol>
       <physvol>
-        <volumeref ref="volFibre"/>
-        <positionref ref="Fibre_pos_center_15"/>
-        <rotationref ref="Fibre_rot_center_15"/>
+        <volumeref ref="volFiber"/>
+        <positionref ref="Fiber_pos_center_15"/>
+        <rotationref ref="Fiber_rot_center_15"/>
       </physvol>
       <physvol>
-        <volumeref ref="volFibre"/>
-        <positionref ref="Fibre_pos_center_16"/>
-        <rotationref ref="Fibre_rot_center_16"/>
+        <volumeref ref="volFiber"/>
+        <positionref ref="Fiber_pos_center_16"/>
+        <rotationref ref="Fiber_rot_center_16"/>
       </physvol>
       <physvol>
-        <volumeref ref="volFibre"/>
-        <positionref ref="Fibre_pos_center_17"/>
-        <rotationref ref="Fibre_rot_center_17"/>
+        <volumeref ref="volFiber"/>
+        <positionref ref="Fiber_pos_center_17"/>
+        <rotationref ref="Fiber_rot_center_17"/>
       </physvol>
       <physvol>
-        <volumeref ref="volFibre"/>
-        <positionref ref="Fibre_pos_center_18"/>
-        <rotationref ref="Fibre_rot_center_18"/>
+        <volumeref ref="volFiber"/>
+        <positionref ref="Fiber_pos_center_18"/>
+        <rotationref ref="Fiber_rot_center_18"/>
       </physvol>
       <physvol>
-        <volumeref ref="volFibre"/>
-        <positionref ref="Fibre_pos_center_19"/>
-        <rotationref ref="Fibre_rot_center_19"/>
+        <volumeref ref="volFiber"/>
+        <positionref ref="Fiber_pos_center_19"/>
+        <rotationref ref="Fiber_rot_center_19"/>
       </physvol>
       <physvol>
-        <volumeref ref="volFibre"/>
-        <positionref ref="Fibre_pos_center_20"/>
-        <rotationref ref="Fibre_rot_center_20"/>
+        <volumeref ref="volFiber"/>
+        <positionref ref="Fiber_pos_center_20"/>
+        <rotationref ref="Fiber_rot_center_20"/>
       </physvol>
       <physvol>
-        <volumeref ref="volFibre"/>
-        <positionref ref="Fibre_pos_center_21"/>
-        <rotationref ref="Fibre_rot_center_21"/>
+        <volumeref ref="volFiber"/>
+        <positionref ref="Fiber_pos_center_21"/>
+        <rotationref ref="Fiber_rot_center_21"/>
       </physvol>
       <physvol>
-        <volumeref ref="volFibre"/>
-        <positionref ref="Fibre_pos_center_22"/>
-        <rotationref ref="Fibre_rot_center_22"/>
+        <volumeref ref="volFiber"/>
+        <positionref ref="Fiber_pos_center_22"/>
+        <rotationref ref="Fiber_rot_center_22"/>
       </physvol>
       <physvol>
-        <volumeref ref="volFibre"/>
-        <positionref ref="Fibre_pos_center_23"/>
-        <rotationref ref="Fibre_rot_center_23"/>
+        <volumeref ref="volFiber"/>
+        <positionref ref="Fiber_pos_center_23"/>
+        <rotationref ref="Fiber_rot_center_23"/>
       </physvol>
       <physvol>
-        <volumeref ref="volFibre"/>
-        <positionref ref="Fibre_pos_center_24"/>
-        <rotationref ref="Fibre_rot_center_24"/>
+        <volumeref ref="volFiber"/>
+        <positionref ref="Fiber_pos_center_24"/>
+        <rotationref ref="Fiber_rot_center_24"/>
       </physvol>
       <physvol>
-        <volumeref ref="volFibre"/>
-        <positionref ref="Fibre_pos_center_25"/>
-        <rotationref ref="Fibre_rot_center_25"/>
+        <volumeref ref="volFiber"/>
+        <positionref ref="Fiber_pos_center_25"/>
+        <rotationref ref="Fiber_rot_center_25"/>
       </physvol>
       <physvol>
-        <volumeref ref="volFibre"/>
-        <positionref ref="Fibre_pos_center_26"/>
-        <rotationref ref="Fibre_rot_center_26"/>
+        <volumeref ref="volFiber"/>
+        <positionref ref="Fiber_pos_center_26"/>
+        <rotationref ref="Fiber_rot_center_26"/>
       </physvol>
       <physvol>
-        <volumeref ref="volFibre"/>
-        <positionref ref="Fibre_pos_center_27"/>
-        <rotationref ref="Fibre_rot_center_27"/>
+        <volumeref ref="volFiber"/>
+        <positionref ref="Fiber_pos_center_27"/>
+        <rotationref ref="Fiber_rot_center_27"/>
       </physvol>
       <physvol>
-        <volumeref ref="volFibre"/>
-        <positionref ref="Fibre_pos_center_28"/>
-        <rotationref ref="Fibre_rot_center_28"/>
+        <volumeref ref="volFiber"/>
+        <positionref ref="Fiber_pos_center_28"/>
+        <rotationref ref="Fiber_rot_center_28"/>
       </physvol>
       <physvol>
-        <volumeref ref="volFibre"/>
-        <positionref ref="Fibre_pos_center_29"/>
-        <rotationref ref="Fibre_rot_center_29"/>
+        <volumeref ref="volFiber"/>
+        <positionref ref="Fiber_pos_center_29"/>
+        <rotationref ref="Fiber_rot_center_29"/>
       </physvol>
       <physvol>
-        <volumeref ref="volFibre"/>
-        <positionref ref="Fibre_pos_center_30"/>
-        <rotationref ref="Fibre_rot_center_30"/>
+        <volumeref ref="volFiber"/>
+        <positionref ref="Fiber_pos_center_30"/>
+        <rotationref ref="Fiber_rot_center_30"/>
       </physvol>
       <physvol>
-        <volumeref ref="volFibre"/>
-        <positionref ref="Fibre_pos_center_31"/>
-        <rotationref ref="Fibre_rot_center_31"/>
+        <volumeref ref="volFiber"/>
+        <positionref ref="Fiber_pos_center_31"/>
+        <rotationref ref="Fiber_rot_center_31"/>
       </physvol>
       <physvol>
-        <volumeref ref="volFibre"/>
-        <positionref ref="Fibre_pos_center_32"/>
-        <rotationref ref="Fibre_rot_center_32"/>
+        <volumeref ref="volFiber"/>
+        <positionref ref="Fiber_pos_center_32"/>
+        <rotationref ref="Fiber_rot_center_32"/>
       </physvol>
       <physvol>
-        <volumeref ref="volFibre"/>
-        <positionref ref="Fibre_pos_center_33"/>
-        <rotationref ref="Fibre_rot_center_33"/>
+        <volumeref ref="volFiber"/>
+        <positionref ref="Fiber_pos_center_33"/>
+        <rotationref ref="Fiber_rot_center_33"/>
       </physvol>
       <physvol>
-        <volumeref ref="volFibre"/>
-        <positionref ref="Fibre_pos_center_34"/>
-        <rotationref ref="Fibre_rot_center_34"/>
+        <volumeref ref="volFiber"/>
+        <positionref ref="Fiber_pos_center_34"/>
+        <rotationref ref="Fiber_rot_center_34"/>
       </physvol>
       <physvol>
-        <volumeref ref="volFibre"/>
-        <positionref ref="Fibre_pos_center_35"/>
-        <rotationref ref="Fibre_rot_center_35"/>
+        <volumeref ref="volFiber"/>
+        <positionref ref="Fiber_pos_center_35"/>
+        <rotationref ref="Fiber_rot_center_35"/>
       </physvol>
       <physvol>
-        <volumeref ref="volFibre"/>
-        <positionref ref="Fibre_pos_center_36"/>
-        <rotationref ref="Fibre_rot_center_36"/>
+        <volumeref ref="volFiber"/>
+        <positionref ref="Fiber_pos_center_36"/>
+        <rotationref ref="Fiber_rot_center_36"/>
       </physvol>
       <physvol>
-        <volumeref ref="volFibre"/>
-        <positionref ref="Fibre_pos_center_37"/>
-        <rotationref ref="Fibre_rot_center_37"/>
+        <volumeref ref="volFiber"/>
+        <positionref ref="Fiber_pos_center_37"/>
+        <rotationref ref="Fiber_rot_center_37"/>
       </physvol>
       <physvol>
-        <volumeref ref="volFibre"/>
-        <positionref ref="Fibre_pos_center_38"/>
-        <rotationref ref="Fibre_rot_center_38"/>
+        <volumeref ref="volFiber"/>
+        <positionref ref="Fiber_pos_center_38"/>
+        <rotationref ref="Fiber_rot_center_38"/>
       </physvol>
       <physvol>
-        <volumeref ref="volFibre"/>
-        <positionref ref="Fibre_pos_center_39"/>
-        <rotationref ref="Fibre_rot_center_39"/>
+        <volumeref ref="volFiber"/>
+        <positionref ref="Fiber_pos_center_39"/>
+        <rotationref ref="Fiber_rot_center_39"/>
       </physvol>
       <physvol>
-        <volumeref ref="volFibre"/>
-        <positionref ref="Fibre_pos_center_40"/>
-        <rotationref ref="Fibre_rot_center_40"/>
+        <volumeref ref="volFiber"/>
+        <positionref ref="Fiber_pos_center_40"/>
+        <rotationref ref="Fiber_rot_center_40"/>
       </physvol>
       <physvol>
-        <volumeref ref="volFibre"/>
-        <positionref ref="Fibre_pos_center_41"/>
-        <rotationref ref="Fibre_rot_center_41"/>
+        <volumeref ref="volFiber"/>
+        <positionref ref="Fiber_pos_center_41"/>
+        <rotationref ref="Fiber_rot_center_41"/>
       </physvol>
       <physvol>
-        <volumeref ref="volFibre"/>
-        <positionref ref="Fibre_pos_center_42"/>
-        <rotationref ref="Fibre_rot_center_42"/>
+        <volumeref ref="volFiber"/>
+        <positionref ref="Fiber_pos_center_42"/>
+        <rotationref ref="Fiber_rot_center_42"/>
       </physvol>
       <physvol>
-        <volumeref ref="volFibre"/>
-        <positionref ref="Fibre_pos_center_43"/>
-        <rotationref ref="Fibre_rot_center_43"/>
+        <volumeref ref="volFiber"/>
+        <positionref ref="Fiber_pos_center_43"/>
+        <rotationref ref="Fiber_rot_center_43"/>
       </physvol>
       <physvol>
-        <volumeref ref="volFibre"/>
-        <positionref ref="Fibre_pos_center_44"/>
-        <rotationref ref="Fibre_rot_center_44"/>
+        <volumeref ref="volFiber"/>
+        <positionref ref="Fiber_pos_center_44"/>
+        <rotationref ref="Fiber_rot_center_44"/>
       </physvol>
       <physvol>
-        <volumeref ref="volFibre"/>
-        <positionref ref="Fibre_pos_center_45"/>
-        <rotationref ref="Fibre_rot_center_45"/>
+        <volumeref ref="volFiber"/>
+        <positionref ref="Fiber_pos_center_45"/>
+        <rotationref ref="Fiber_rot_center_45"/>
       </physvol>
       <physvol>
-        <volumeref ref="volFibre"/>
-        <positionref ref="Fibre_pos_center_46"/>
-        <rotationref ref="Fibre_rot_center_46"/>
+        <volumeref ref="volFiber"/>
+        <positionref ref="Fiber_pos_center_46"/>
+        <rotationref ref="Fiber_rot_center_46"/>
       </physvol>
       <physvol>
-        <volumeref ref="volFibre"/>
-        <positionref ref="Fibre_pos_center_47"/>
-        <rotationref ref="Fibre_rot_center_47"/>
+        <volumeref ref="volFiber"/>
+        <positionref ref="Fiber_pos_center_47"/>
+        <rotationref ref="Fiber_rot_center_47"/>
       </physvol>
       <physvol>
-        <volumeref ref="volFibre"/>
-        <positionref ref="Fibre_pos_center_48"/>
-        <rotationref ref="Fibre_rot_center_48"/>
+        <volumeref ref="volFiber"/>
+        <positionref ref="Fiber_pos_center_48"/>
+        <rotationref ref="Fiber_rot_center_48"/>
       </physvol>
       <physvol>
-        <volumeref ref="volFibre"/>
-        <positionref ref="Fibre_pos_center_49"/>
-        <rotationref ref="Fibre_rot_center_49"/>
+        <volumeref ref="volFiber"/>
+        <positionref ref="Fiber_pos_center_49"/>
+        <rotationref ref="Fiber_rot_center_49"/>
       </physvol>
       <physvol>
-        <volumeref ref="volFibre"/>
-        <positionref ref="Fibre_pos_top_0"/>
-        <rotationref ref="Fibre_rot_top_0"/>
+        <volumeref ref="volFiber"/>
+        <positionref ref="Fiber_pos_top_0"/>
+        <rotationref ref="Fiber_rot_top_0"/>
       </physvol>
       <physvol>
-        <volumeref ref="volFibre"/>
-        <positionref ref="Fibre_pos_top_1"/>
-        <rotationref ref="Fibre_rot_top_1"/>
+        <volumeref ref="volFiber"/>
+        <positionref ref="Fiber_pos_top_1"/>
+        <rotationref ref="Fiber_rot_top_1"/>
       </physvol>
       <physvol>
-        <volumeref ref="volFibre"/>
-        <positionref ref="Fibre_pos_top_2"/>
-        <rotationref ref="Fibre_rot_top_2"/>
+        <volumeref ref="volFiber"/>
+        <positionref ref="Fiber_pos_top_2"/>
+        <rotationref ref="Fiber_rot_top_2"/>
       </physvol>
       <physvol>
-        <volumeref ref="volFibre"/>
-        <positionref ref="Fibre_pos_top_3"/>
-        <rotationref ref="Fibre_rot_top_3"/>
+        <volumeref ref="volFiber"/>
+        <positionref ref="Fiber_pos_top_3"/>
+        <rotationref ref="Fiber_rot_top_3"/>
       </physvol>
       <physvol>
-        <volumeref ref="volFibre"/>
-        <positionref ref="Fibre_pos_top_4"/>
-        <rotationref ref="Fibre_rot_top_4"/>
+        <volumeref ref="volFiber"/>
+        <positionref ref="Fiber_pos_top_4"/>
+        <rotationref ref="Fiber_rot_top_4"/>
       </physvol>
       <physvol>
-        <volumeref ref="volFibre"/>
-        <positionref ref="Fibre_pos_top_5"/>
-        <rotationref ref="Fibre_rot_top_5"/>
+        <volumeref ref="volFiber"/>
+        <positionref ref="Fiber_pos_top_5"/>
+        <rotationref ref="Fiber_rot_top_5"/>
       </physvol>
       <physvol>
-        <volumeref ref="volFibre"/>
-        <positionref ref="Fibre_pos_top_6"/>
-        <rotationref ref="Fibre_rot_top_6"/>
+        <volumeref ref="volFiber"/>
+        <positionref ref="Fiber_pos_top_6"/>
+        <rotationref ref="Fiber_rot_top_6"/>
       </physvol>
       <physvol>
-        <volumeref ref="volFibre"/>
-        <positionref ref="Fibre_pos_top_7"/>
-        <rotationref ref="Fibre_rot_top_7"/>
+        <volumeref ref="volFiber"/>
+        <positionref ref="Fiber_pos_top_7"/>
+        <rotationref ref="Fiber_rot_top_7"/>
       </physvol>
       <physvol>
-        <volumeref ref="volFibre"/>
-        <positionref ref="Fibre_pos_top_8"/>
-        <rotationref ref="Fibre_rot_top_8"/>
+        <volumeref ref="volFiber"/>
+        <positionref ref="Fiber_pos_top_8"/>
+        <rotationref ref="Fiber_rot_top_8"/>
       </physvol>
       <physvol>
-        <volumeref ref="volFibre"/>
-        <positionref ref="Fibre_pos_top_9"/>
-        <rotationref ref="Fibre_rot_top_9"/>
+        <volumeref ref="volFiber"/>
+        <positionref ref="Fiber_pos_top_9"/>
+        <rotationref ref="Fiber_rot_top_9"/>
       </physvol>
       <physvol>
-        <volumeref ref="volFibre"/>
-        <positionref ref="Fibre_pos_top_10"/>
-        <rotationref ref="Fibre_rot_top_10"/>
+        <volumeref ref="volFiber"/>
+        <positionref ref="Fiber_pos_top_10"/>
+        <rotationref ref="Fiber_rot_top_10"/>
       </physvol>
       <physvol>
-        <volumeref ref="volFibre"/>
-        <positionref ref="Fibre_pos_top_11"/>
-        <rotationref ref="Fibre_rot_top_11"/>
+        <volumeref ref="volFiber"/>
+        <positionref ref="Fiber_pos_top_11"/>
+        <rotationref ref="Fiber_rot_top_11"/>
       </physvol>
       <physvol>
-        <volumeref ref="volFibre"/>
-        <positionref ref="Fibre_pos_top_12"/>
-        <rotationref ref="Fibre_rot_top_12"/>
+        <volumeref ref="volFiber"/>
+        <positionref ref="Fiber_pos_top_12"/>
+        <rotationref ref="Fiber_rot_top_12"/>
       </physvol>
       <physvol>
-        <volumeref ref="volFibre"/>
-        <positionref ref="Fibre_pos_top_13"/>
-        <rotationref ref="Fibre_rot_top_13"/>
+        <volumeref ref="volFiber"/>
+        <positionref ref="Fiber_pos_top_13"/>
+        <rotationref ref="Fiber_rot_top_13"/>
       </physvol>
       <physvol>
-        <volumeref ref="volFibre"/>
-        <positionref ref="Fibre_pos_top_14"/>
-        <rotationref ref="Fibre_rot_top_14"/>
+        <volumeref ref="volFiber"/>
+        <positionref ref="Fiber_pos_top_14"/>
+        <rotationref ref="Fiber_rot_top_14"/>
       </physvol>
       <physvol>
-        <volumeref ref="volFibre"/>
-        <positionref ref="Fibre_pos_top_15"/>
-        <rotationref ref="Fibre_rot_top_15"/>
+        <volumeref ref="volFiber"/>
+        <positionref ref="Fiber_pos_top_15"/>
+        <rotationref ref="Fiber_rot_top_15"/>
       </physvol>
       <physvol>
-        <volumeref ref="volFibre"/>
-        <positionref ref="Fibre_pos_top_16"/>
-        <rotationref ref="Fibre_rot_top_16"/>
+        <volumeref ref="volFiber"/>
+        <positionref ref="Fiber_pos_top_16"/>
+        <rotationref ref="Fiber_rot_top_16"/>
       </physvol>
       <physvol>
-        <volumeref ref="volFibre"/>
-        <positionref ref="Fibre_pos_top_17"/>
-        <rotationref ref="Fibre_rot_top_17"/>
+        <volumeref ref="volFiber"/>
+        <positionref ref="Fiber_pos_top_17"/>
+        <rotationref ref="Fiber_rot_top_17"/>
       </physvol>
       <physvol>
-        <volumeref ref="volFibre"/>
-        <positionref ref="Fibre_pos_top_18"/>
-        <rotationref ref="Fibre_rot_top_18"/>
+        <volumeref ref="volFiber"/>
+        <positionref ref="Fiber_pos_top_18"/>
+        <rotationref ref="Fiber_rot_top_18"/>
       </physvol>
       <physvol>
-        <volumeref ref="volFibre"/>
-        <positionref ref="Fibre_pos_top_19"/>
-        <rotationref ref="Fibre_rot_top_19"/>
+        <volumeref ref="volFiber"/>
+        <positionref ref="Fiber_pos_top_19"/>
+        <rotationref ref="Fiber_rot_top_19"/>
       </physvol>
       <physvol>
-        <volumeref ref="volFibre"/>
-        <positionref ref="Fibre_pos_top_20"/>
-        <rotationref ref="Fibre_rot_top_20"/>
+        <volumeref ref="volFiber"/>
+        <positionref ref="Fiber_pos_top_20"/>
+        <rotationref ref="Fiber_rot_top_20"/>
       </physvol>
       <physvol>
-        <volumeref ref="volFibre"/>
-        <positionref ref="Fibre_pos_top_21"/>
-        <rotationref ref="Fibre_rot_top_21"/>
+        <volumeref ref="volFiber"/>
+        <positionref ref="Fiber_pos_top_21"/>
+        <rotationref ref="Fiber_rot_top_21"/>
       </physvol>
       <physvol>
-        <volumeref ref="volFibre"/>
-        <positionref ref="Fibre_pos_top_22"/>
-        <rotationref ref="Fibre_rot_top_22"/>
+        <volumeref ref="volFiber"/>
+        <positionref ref="Fiber_pos_top_22"/>
+        <rotationref ref="Fiber_rot_top_22"/>
       </physvol>
       <physvol>
-        <volumeref ref="volFibre"/>
-        <positionref ref="Fibre_pos_top_23"/>
-        <rotationref ref="Fibre_rot_top_23"/>
+        <volumeref ref="volFiber"/>
+        <positionref ref="Fiber_pos_top_23"/>
+        <rotationref ref="Fiber_rot_top_23"/>
       </physvol>
       <physvol>
-        <volumeref ref="volFibre"/>
-        <positionref ref="Fibre_pos_top_24"/>
-        <rotationref ref="Fibre_rot_top_24"/>
+        <volumeref ref="volFiber"/>
+        <positionref ref="Fiber_pos_top_24"/>
+        <rotationref ref="Fiber_rot_top_24"/>
       </physvol>
       <physvol>
-        <volumeref ref="volFibre"/>
-        <positionref ref="Fibre_pos_top_25"/>
-        <rotationref ref="Fibre_rot_top_25"/>
+        <volumeref ref="volFiber"/>
+        <positionref ref="Fiber_pos_top_25"/>
+        <rotationref ref="Fiber_rot_top_25"/>
       </physvol>
       <physvol>
-        <volumeref ref="volFibre"/>
-        <positionref ref="Fibre_pos_top_26"/>
-        <rotationref ref="Fibre_rot_top_26"/>
+        <volumeref ref="volFiber"/>
+        <positionref ref="Fiber_pos_top_26"/>
+        <rotationref ref="Fiber_rot_top_26"/>
       </physvol>
       <physvol>
-        <volumeref ref="volFibre"/>
-        <positionref ref="Fibre_pos_top_27"/>
-        <rotationref ref="Fibre_rot_top_27"/>
+        <volumeref ref="volFiber"/>
+        <positionref ref="Fiber_pos_top_27"/>
+        <rotationref ref="Fiber_rot_top_27"/>
       </physvol>
       <physvol>
-        <volumeref ref="volFibre"/>
-        <positionref ref="Fibre_pos_top_28"/>
-        <rotationref ref="Fibre_rot_top_28"/>
+        <volumeref ref="volFiber"/>
+        <positionref ref="Fiber_pos_top_28"/>
+        <rotationref ref="Fiber_rot_top_28"/>
       </physvol>
       <physvol>
-        <volumeref ref="volFibre"/>
-        <positionref ref="Fibre_pos_top_29"/>
-        <rotationref ref="Fibre_rot_top_29"/>
+        <volumeref ref="volFiber"/>
+        <positionref ref="Fiber_pos_top_29"/>
+        <rotationref ref="Fiber_rot_top_29"/>
       </physvol>
       <physvol>
-        <volumeref ref="volFibre"/>
-        <positionref ref="Fibre_pos_top_30"/>
-        <rotationref ref="Fibre_rot_top_30"/>
+        <volumeref ref="volFiber"/>
+        <positionref ref="Fiber_pos_top_30"/>
+        <rotationref ref="Fiber_rot_top_30"/>
       </physvol>
       <physvol>
-        <volumeref ref="volFibre"/>
-        <positionref ref="Fibre_pos_top_31"/>
-        <rotationref ref="Fibre_rot_top_31"/>
+        <volumeref ref="volFiber"/>
+        <positionref ref="Fiber_pos_top_31"/>
+        <rotationref ref="Fiber_rot_top_31"/>
       </physvol>
       <physvol>
-        <volumeref ref="volFibre"/>
-        <positionref ref="Fibre_pos_top_32"/>
-        <rotationref ref="Fibre_rot_top_32"/>
+        <volumeref ref="volFiber"/>
+        <positionref ref="Fiber_pos_top_32"/>
+        <rotationref ref="Fiber_rot_top_32"/>
       </physvol>
       <physvol>
-        <volumeref ref="volFibre"/>
-        <positionref ref="Fibre_pos_top_33"/>
-        <rotationref ref="Fibre_rot_top_33"/>
+        <volumeref ref="volFiber"/>
+        <positionref ref="Fiber_pos_top_33"/>
+        <rotationref ref="Fiber_rot_top_33"/>
       </physvol>
       <physvol>
-        <volumeref ref="volFibre"/>
-        <positionref ref="Fibre_pos_top_34"/>
-        <rotationref ref="Fibre_rot_top_34"/>
+        <volumeref ref="volFiber"/>
+        <positionref ref="Fiber_pos_top_34"/>
+        <rotationref ref="Fiber_rot_top_34"/>
       </physvol>
       <physvol>
-        <volumeref ref="volFibre"/>
-        <positionref ref="Fibre_pos_top_35"/>
-        <rotationref ref="Fibre_rot_top_35"/>
+        <volumeref ref="volFiber"/>
+        <positionref ref="Fiber_pos_top_35"/>
+        <rotationref ref="Fiber_rot_top_35"/>
       </physvol>
       <physvol>
-        <volumeref ref="volFibre"/>
-        <positionref ref="Fibre_pos_top_36"/>
-        <rotationref ref="Fibre_rot_top_36"/>
+        <volumeref ref="volFiber"/>
+        <positionref ref="Fiber_pos_top_36"/>
+        <rotationref ref="Fiber_rot_top_36"/>
       </physvol>
       <physvol>
-        <volumeref ref="volFibre"/>
-        <positionref ref="Fibre_pos_top_37"/>
-        <rotationref ref="Fibre_rot_top_37"/>
+        <volumeref ref="volFiber"/>
+        <positionref ref="Fiber_pos_top_37"/>
+        <rotationref ref="Fiber_rot_top_37"/>
       </physvol>
       <physvol>
-        <volumeref ref="volFibre"/>
-        <positionref ref="Fibre_pos_top_38"/>
-        <rotationref ref="Fibre_rot_top_38"/>
+        <volumeref ref="volFiber"/>
+        <positionref ref="Fiber_pos_top_38"/>
+        <rotationref ref="Fiber_rot_top_38"/>
       </physvol>
       <physvol>
-        <volumeref ref="volFibre"/>
-        <positionref ref="Fibre_pos_top_39"/>
-        <rotationref ref="Fibre_rot_top_39"/>
+        <volumeref ref="volFiber"/>
+        <positionref ref="Fiber_pos_top_39"/>
+        <rotationref ref="Fiber_rot_top_39"/>
       </physvol>
       <physvol>
-        <volumeref ref="volFibre"/>
-        <positionref ref="Fibre_pos_top_40"/>
-        <rotationref ref="Fibre_rot_top_40"/>
+        <volumeref ref="volFiber"/>
+        <positionref ref="Fiber_pos_top_40"/>
+        <rotationref ref="Fiber_rot_top_40"/>
       </physvol>
       <physvol>
-        <volumeref ref="volFibre"/>
-        <positionref ref="Fibre_pos_top_41"/>
-        <rotationref ref="Fibre_rot_top_41"/>
+        <volumeref ref="volFiber"/>
+        <positionref ref="Fiber_pos_top_41"/>
+        <rotationref ref="Fiber_rot_top_41"/>
       </physvol>
       <physvol>
-        <volumeref ref="volFibre"/>
-        <positionref ref="Fibre_pos_top_42"/>
-        <rotationref ref="Fibre_rot_top_42"/>
+        <volumeref ref="volFiber"/>
+        <positionref ref="Fiber_pos_top_42"/>
+        <rotationref ref="Fiber_rot_top_42"/>
       </physvol>
       <physvol>
-        <volumeref ref="volFibre"/>
-        <positionref ref="Fibre_pos_top_43"/>
-        <rotationref ref="Fibre_rot_top_43"/>
+        <volumeref ref="volFiber"/>
+        <positionref ref="Fiber_pos_top_43"/>
+        <rotationref ref="Fiber_rot_top_43"/>
       </physvol>
       <physvol>
-        <volumeref ref="volFibre"/>
-        <positionref ref="Fibre_pos_top_44"/>
-        <rotationref ref="Fibre_rot_top_44"/>
+        <volumeref ref="volFiber"/>
+        <positionref ref="Fiber_pos_top_44"/>
+        <rotationref ref="Fiber_rot_top_44"/>
       </physvol>
       <physvol>
-        <volumeref ref="volFibre"/>
-        <positionref ref="Fibre_pos_top_45"/>
-        <rotationref ref="Fibre_rot_top_45"/>
+        <volumeref ref="volFiber"/>
+        <positionref ref="Fiber_pos_top_45"/>
+        <rotationref ref="Fiber_rot_top_45"/>
       </physvol>
       <physvol>
-        <volumeref ref="volFibre"/>
-        <positionref ref="Fibre_pos_top_46"/>
-        <rotationref ref="Fibre_rot_top_46"/>
+        <volumeref ref="volFiber"/>
+        <positionref ref="Fiber_pos_top_46"/>
+        <rotationref ref="Fiber_rot_top_46"/>
       </physvol>
       <physvol>
-        <volumeref ref="volFibre"/>
-        <positionref ref="Fibre_pos_top_47"/>
-        <rotationref ref="Fibre_rot_top_47"/>
+        <volumeref ref="volFiber"/>
+        <positionref ref="Fiber_pos_top_47"/>
+        <rotationref ref="Fiber_rot_top_47"/>
       </physvol>
       <physvol>
-        <volumeref ref="volFibre"/>
-        <positionref ref="Fibre_pos_top_48"/>
-        <rotationref ref="Fibre_rot_top_48"/>
+        <volumeref ref="volFiber"/>
+        <positionref ref="Fiber_pos_top_48"/>
+        <rotationref ref="Fiber_rot_top_48"/>
       </physvol>
       <physvol>
-        <volumeref ref="volFibre"/>
-        <positionref ref="Fibre_pos_top_49"/>
-        <rotationref ref="Fibre_rot_top_49"/>
+        <volumeref ref="volFiber"/>
+        <positionref ref="Fiber_pos_top_49"/>
+        <rotationref ref="Fiber_rot_top_49"/>
       </physvol>
       <physvol>
         <volumeref ref="volSiPM_LCM_Mask"/>
