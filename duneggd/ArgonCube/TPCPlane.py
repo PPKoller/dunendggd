@@ -34,7 +34,7 @@ class TPCPlaneBuilder(gegede.builder.Builder):
 
         self.halfDimension  = { 'dx':   self.PixelPlane_builder.halfDimension['dx'],
                                 'dy':   self.N_UnitsY*self.PixelPlane_builder.halfDimension['dy']+(self.N_UnitsY-1)*self.Gap_PixelTile,
-                                'dz':   2*self.PixelPlane_builder.halfDimension['dz']+self.Gap_PixelTile}
+                                'dz':   self.PixelPlane_builder.halfDimension['dz']}
 
         main_lv, main_hDim = ltools.main_lv(self,geom,'Box')
         print('TPCPlaneBuilder::construct()')
@@ -43,7 +43,7 @@ class TPCPlaneBuilder(gegede.builder.Builder):
 
         # Build TPC Array
         for i in range(self.N_UnitsY):
-            pos = [Q('0cm'),(-self.N_UnitsY+1+2*i)*(self.PixelPlane_builder.halfDimension['dy']+self.Gap_PixelTile),-self.PixelPlane_builder.halfDimension['dz']-self.Gap_PixelTile]
+            pos = [Q('0cm'),(-self.N_UnitsY+1+2*i)*(self.PixelPlane_builder.halfDimension['dy']+self.Gap_PixelTile),Q('0cm')]
 
             PixelPlane_lv = self.PixelPlane_builder.get_volume()
 
@@ -74,5 +74,5 @@ class TPCPlaneBuilder(gegede.builder.Builder):
                                                     pos=PixelPlane_pos,
                                                     rot=PixelPlane_rot)
 
-            main_lv.placements.append(PixelPlane_pla.name)
+            #main_lv.placements.append(PixelPlane_pla.name)
 
