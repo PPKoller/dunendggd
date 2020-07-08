@@ -99,7 +99,8 @@ class PixelPlaneBuilder(gegede.builder.Builder):
 
                 Pixel_pla = geom.structure.Placement('Pixel_pla_'+str(n)+'.'+str(m),
                                                         volume=Pixel_lv,
-                                                        pos=Pixel_pos)
+                                                        pos=Pixel_pos,
+                                                        copynumber=self.N_Pixel*n+m)
 
                 main_lv.placements.append(Pixel_pla.name)
 
