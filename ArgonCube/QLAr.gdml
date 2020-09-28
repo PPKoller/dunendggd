@@ -565,7 +565,7 @@
       <solidref ref="QLAr"/>
     </volume>
     <volume name="volDetEnclosure">
-      <materialref ref="LAr"/>
+      <materialref ref="Air"/>
       <solidref ref="DetEnclosure"/>
       <physvol copynumber="0">
         <volumeref ref="volQLAr"/>
