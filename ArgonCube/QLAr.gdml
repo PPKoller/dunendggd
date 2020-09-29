@@ -556,7 +556,7 @@
   </materials>
   <solids>
     <box lunit="cm" name="QLAr" x="100.0" y="100.0" z="100.0"/>
-    <box lunit="cm" name="DetEnclosure" x="100.0" y="100.0" z="100.0"/>
+    <box lunit="cm" name="DetEnclosure" x="200.0" y="200.0" z="200.0"/>
     <box lunit="cm" name="World" x="40000.0" y="40000.0" z="40000.0"/>
   </solids>
   <structure>
@@ -565,9 +565,9 @@
       <solidref ref="QLAr"/>
     </volume>
     <volume name="volDetEnclosure">
-      <materialref ref="Air"/>
+      <materialref ref="Rock"/>
       <solidref ref="DetEnclosure"/>
-      <physvol copynumber="0">
+      <physvol>
         <volumeref ref="volQLAr"/>
         <positionref ref="volQLAr_pos"/>
         <rotationref ref="volQLAr_rot"/>
@@ -576,7 +576,7 @@
     <volume name="volWorld">
       <materialref ref="Rock"/>
       <solidref ref="World"/>
-      <physvol copynumber="0">
+      <physvol>
         <volumeref ref="volDetEnclosure"/>
         <positionref ref="volDetEnclosure_pos"/>
         <rotationref ref="volDetEnclosure_rot"/>
