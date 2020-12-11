@@ -38,7 +38,7 @@ class ArCLightBuilder(gegede.builder.Builder):
         self.SiPM_PCB_dx        = SiPM_PCB['dx']
         self.SiPM_PCB_dy        = SiPM_PCB['dy']
         self.SiPM_PCB_dz        = SiPM_PCB['dz']
-        self.SiPM_PCB_pitch       = SiPM_PCB['pitch']
+        self.SiPM_PCB_pitch     = SiPM_PCB['pitch']
 
         self.N_SiPM             = int(N_SiPM)
         self.N_Mask             = int(N_Mask)

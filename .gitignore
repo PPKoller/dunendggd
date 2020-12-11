@@ -4,6 +4,6 @@ dunendggd.egg-info
 *.gdml
 *.swp
 ArgonCube/geom-test.root
-!ArgonCube/optSim.gdml
+!ArgonCube/OptSim.gdml
 !ArgonCube/Module_2x2.gdml
 !ArgonCube/Detector.gdml
