@@ -22,6 +22,7 @@ class LCMBuilder(gegede.builder.Builder):
         self.Fiber_dz               = Fiber_dimension['dz']
         self.Fiber_pitch            = Fiber_dimension['pitch']
         self.Fiber_dd               = Fiber_dimension['dd']
+        self.Fiber_offset           = Fiber_dimension['offset']
 
         self.TPB_dr                 = Fiber_dimension['tpb_dr']
 
@@ -73,7 +74,7 @@ class LCMBuilder(gegede.builder.Builder):
         TPB_Fiber_shape = geom.shapes.Tubs('TPB_Fiber_panel_shape',
                                        rmin = self.Fiber_rmin,
                                        rmax = self.Fiber_rmax,
-                                       dz = self.Fiber_dz)
+                                       dz = self.Fiber_dz-self.Fiber_offset)
 
         TPB_Fiber_lv = geom.structure.Volume('volTPB_Fiber',
                                             material=self.TPB_Material,
@@ -83,7 +84,7 @@ class LCMBuilder(gegede.builder.Builder):
         Fiber_shape = geom.shapes.Tubs('Fiber_panel_shape',
                                        rmin = self.Fiber_rmin,
                                        rmax = self.Fiber_rmax-self.TPB_dr,
-                                       dz = self.Fiber_dz)
+                                       dz = self.Fiber_dz-self.Fiber_offset)
 
         Fiber_lv = geom.structure.Volume('volFiber',
                                             material=self.Fiber_Material,
@@ -101,7 +102,7 @@ class LCMBuilder(gegede.builder.Builder):
         TPB_Fiber_lv.placements.append(Fiber_pla.name)
 
         # Place LCM Fibers
-        pos = [self.SiPM_LCM_Mask_dx+self.SiPM_LCM_PCB_dx,-self.Fiber_dd-2*self.N_Fiber_LCM*self.Fiber_pitch,Q('0cm')]
+        pos = [self.SiPM_LCM_Mask_dx+self.SiPM_LCM_PCB_dx-self.Fiber_offset,-self.Fiber_dd-2*self.N_Fiber_LCM*self.Fiber_pitch,Q('0cm')]
         for i in range(self.N_Fiber_LCM):
             pos[1] = pos[1] + 2*self.Fiber_pitch
 
@@ -121,7 +122,7 @@ class LCMBuilder(gegede.builder.Builder):
 
             main_lv.placements.append(TPB_Fiber_pla.name)
 
-        pos = [self.SiPM_LCM_Mask_dx+self.SiPM_LCM_PCB_dx,+self.Fiber_dd-2*self.Fiber_pitch,Q('0cm')]
+        pos = [self.SiPM_LCM_Mask_dx+self.SiPM_LCM_PCB_dx-self.Fiber_offset,+self.Fiber_dd-2*self.Fiber_pitch,Q('0cm')]
         for i in range(self.N_Fiber_LCM,2*self.N_Fiber_LCM):
             pos[1] = pos[1] + 2*self.Fiber_pitch
 
