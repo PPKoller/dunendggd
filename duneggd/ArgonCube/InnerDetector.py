@@ -46,7 +46,8 @@ class InnerDetectorBuilder(gegede.builder.Builder):
 
         HalfDetector_pla = geom.structure.Placement(self.HalfDetector_builder.name+'_pla_L',
                                                 volume=HalfDetector_lv,
-                                                pos=HalfDetector_pos)
+                                                pos=HalfDetector_pos,
+                                                copynumber=0)
 
         main_lv.placements.append(HalfDetector_pla.name)
 
@@ -66,7 +67,8 @@ class InnerDetectorBuilder(gegede.builder.Builder):
         HalfDetector_pla = geom.structure.Placement(self.HalfDetector_builder.name+'_pla_R',
                                                 volume=HalfDetector_lv,
                                                 pos=HalfDetector_pos,
-                                                rot=HalfDetector_rot)
+                                                rot=HalfDetector_rot,
+                                                copynumber=1)
 
         main_lv.placements.append(HalfDetector_pla.name)
 
