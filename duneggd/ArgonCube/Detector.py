@@ -53,7 +53,8 @@ class DetectorBuilder(gegede.builder.Builder):
 
                 Module_pla = geom.structure.Placement(self.Module_builder.name+'_pla_'+str(i)+'.'+str(j),
                                                         volume=Module_lv,
-                                                        pos=Module_pos)
+                                                        pos=Module_pos,
+                                                        copynumber=2*i+j)
 
                 main_lv.placements.append(Module_pla.name)
 

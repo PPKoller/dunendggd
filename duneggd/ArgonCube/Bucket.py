@@ -229,7 +229,8 @@ class BucketBuilder(gegede.builder.Builder):
 
         Backplate_pla = geom.structure.Placement(self.Backplate_builder.name+'_pla_L',
                                                 volume=Backplate_lv,
-                                                pos=Backplate_pos)
+                                                pos=Backplate_pos,
+                                                copynumber=0)
 
         LArPhaseG10Side_lv.placements.append(Backplate_pla.name)
 
@@ -243,7 +244,8 @@ class BucketBuilder(gegede.builder.Builder):
 
         Backplate_pla = geom.structure.Placement(self.Backplate_builder.name+'_pla_R',
                                                 volume=Backplate_lv,
-                                                pos=Backplate_pos)
+                                                pos=Backplate_pos,
+                                                copynumber=1)
 
         LArPhaseG10Side_lv.placements.append(Backplate_pla.name)
 

@@ -92,14 +92,15 @@ class PixelPlaneBuilder(gegede.builder.Builder):
         for n in range(self.N_Pixel):
             for m in range(self.N_Pixel):
                 # Place Pixel into PCB board
-                pos = [self.PCB_dx+self.Asic_dx,-self.PCB_dy+self.PCB_dy/self.N_Pixel*(1+2*n),-self.PCB_dz+self.PCB_dz/self.N_Pixel*(1+2*m)]
+                pos = [self.PCB_dx+self.Asic_dx,-self.PCB_dy+self.Pixel_dy+(self.PCB_dy-self.Pixel_dy)/(self.N_Pixel-1)*(2*n),-self.PCB_dz+self.Pixel_dz+(self.PCB_dz-self.Pixel_dz)/(self.N_Pixel-1)*(2*m)]
 
                 Pixel_pos = geom.structure.Position('Pixel_pos_'+str(n)+'.'+str(m),
                                                         pos[0],pos[1],pos[2])
 
                 Pixel_pla = geom.structure.Placement('Pixel_pla_'+str(n)+'.'+str(m),
                                                         volume=Pixel_lv,
-                                                        pos=Pixel_pos)
+                                                        pos=Pixel_pos,
+                                                        copynumber=(n*self.N_Pixel)+m)
 
                 main_lv.placements.append(Pixel_pla.name)
 

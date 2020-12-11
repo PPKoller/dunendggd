@@ -52,7 +52,8 @@ class TPCPlaneBuilder(gegede.builder.Builder):
 
             PixelPlane_pla = geom.structure.Placement(self.PixelPlane_builder.name+'_pla_'+str(i)+'_R',
                                                     volume=PixelPlane_lv,
-                                                    pos=PixelPlane_pos)
+                                                    pos=PixelPlane_pos,
+                                                    copynumber=2*i)
 
             main_lv.placements.append(PixelPlane_pla.name)
 
@@ -72,7 +73,8 @@ class TPCPlaneBuilder(gegede.builder.Builder):
             PixelPlane_pla = geom.structure.Placement(self.PixelPlane_builder.name+'_pla_'+str(i)+'_L',
                                                     volume=PixelPlane_lv,
                                                     pos=PixelPlane_pos,
-                                                    rot=PixelPlane_rot)
+                                                    rot=PixelPlane_rot,
+                                                    copynumber=(2*i)+1)
 
             main_lv.placements.append(PixelPlane_pla.name)
 
