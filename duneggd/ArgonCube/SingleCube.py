@@ -6,6 +6,7 @@ Original Author: P. Koller, University of Bern
 
 import gegede.builder
 from duneggd.LocalTools import localtools as ltools
+from duneggd.LocalTools import materialdefinition as materials
 from gegede import Quantity as Q
 
 
@@ -43,6 +44,8 @@ class SingleCubeBuilder(gegede.builder.Builder):
         """ Construct the geometry.
 
         """
+
+        materials.define_materials(geom)
 
         self.halfDimension  = { 'dx':   self.Fieldcage_dx+self.Cathode_dx/2,
                                 'dy':   self.Fieldcage_dy,
